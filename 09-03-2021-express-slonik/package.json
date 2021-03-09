@@ -1,0 +1,28 @@
+{
+  "name": "09-03-2021-express-slonik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
+    "db:create": "node scripts/creations.js",
+    "db:insert": "node scripts/insertions.js",
+    "db:up": "npm run db:create && npm run db:insert",
+    "db:drop": "node scripts/drops.js",
+    "docker:up": "docker-compose up",
+    "docker:down": "docker-compose down",
+    "docker:purge": "npm run docker:down && docker rmi -f $(docker images -a -q)",
+    "docker:stats": "docker stats",
+    "docker:current": "docker ps && docker images && docker-compose ps && docker-compose images"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "slonik": "^23.6.2"
+  }
+}
