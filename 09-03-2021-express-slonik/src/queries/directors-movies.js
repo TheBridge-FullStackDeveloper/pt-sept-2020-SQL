@@ -1,5 +1,5 @@
 const { sql } = require('slonik')
 
-// Directors-related queries
+// Directors-movies-related queries
 
 module.exports = {}
