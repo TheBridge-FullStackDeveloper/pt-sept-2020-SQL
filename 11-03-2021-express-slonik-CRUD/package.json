@@ -1,0 +1,25 @@
+{
+  "name": "11-03-2021-express-slonik-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "db:seeds": "node scripts/seeds.js",
+    "db:delete": "node scripts/drops.js",
+    "docker:up": "docker-compose up",
+    "docker:down": "docker-compose down",
+    "docker:purge": "npm run docker:down && docker rmi -f $(docker images -a -q)",
+    "docker:stats": "docker stats",
+    "docker:current": "docker ps && docker images && docker-compose ps && docker-compose images"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "faker": "^5.4.0",
+    "nodemon": "^2.0.7",
+    "slonik": "^23.6.2"
+  }
+}
