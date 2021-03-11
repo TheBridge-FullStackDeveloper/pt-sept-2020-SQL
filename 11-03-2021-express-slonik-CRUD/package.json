@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
     "db:seeds": "node scripts/seeds.js",
     "db:delete": "node scripts/drops.js",
     "docker:up": "docker-compose up",
