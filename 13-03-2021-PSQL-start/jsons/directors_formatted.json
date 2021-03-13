@@ -1,0 +1,4952 @@
+[
+  {
+    "id": 1,
+    "query_name": "Christopher_Nolan",
+    "name": "Christopher Nolan",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Christopher_Nolan_Cannes_2018.jpg",
+    "nationality": "británica,estadounidense",
+    "roles": "director de cine,guionista,productor de cine,actor,escritor,camarógrafo,actor de cine,productor ejecutivo,editor de cine,director de fotografía"
+  },
+  {
+    "id": 2,
+    "query_name": "Roman_Polanski",
+    "name": "Roman Polański",
+    "nickname": "Romek",
+    "pic": "https://commons.wikimedia.org/wiki/File:Roman_Polanski_Cannes_2013.jpg",
+    "nationality": "francesa,polaca",
+    "roles": "director,productor,guionista,actor"
+  },
+  {
+    "id": 3,
+    "query_name": "Richard_Fleischer",
+    "name": "Richard Fleischer",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Fleischer_Amiens.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista"
+  },
+  {
+    "id": 4,
+    "query_name": "Blake_Edwards",
+    "name": "Blake Edwards",
+    "nickname": "Blackie",
+    "pic": "https://commons.wikimedia.org/wiki/File:Blake_Edwards_1966.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor,actor"
+  },
+  {
+    "id": 5,
+    "query_name": "Sidney_Lumet",
+    "name": "Sidney Lumet",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:SidneyLumet07TIFF.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 6,
+    "query_name": "Terry_Gilliam",
+    "name": "Terry Gilliam",
+    "nickname": "Captain Chaos",
+    "pic": "https://commons.wikimedia.org/wiki/File:Terry_Gilliam.jpg",
+    "nationality": "británico",
+    "roles": "actor,director,animador,productor,guionista,comediante"
+  },
+  {
+    "id": 7,
+    "query_name": "Steven_Spielberg",
+    "name": "Steven Spielberg",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Steven_Spielberg_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense",
+    "roles": "guionista,director,productor de cine"
+  },
+  {
+    "id": 8,
+    "query_name": "Stanley_Kubrick",
+    "name": "Stanley Kubrick",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Stanley_Kubrick_in_Dr._Strangelove_Trailer_(4)_Cropped.jpg",
+    "nationality": "estadounidense,británico",
+    "roles": "fotógrafo,director de cine,guionista,productor,editor"
+  },
+  {
+    "id": 9,
+    "query_name": "Shane_Meadows",
+    "name": "Shane Meadows",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Shane_meadows.jpg",
+    "nationality": "británica",
+    "roles": "director,guionista,actor"
+  },
+  {
+    "id": 10,
+    "query_name": "Michael_Polish",
+    "name": "Michael Polish",
+    "nickname": "Ted Smith, Larry Smith",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,actor"
+  },
+  {
+    "id": 11,
+    "query_name": "Leonard_Nimoy",
+    "name": "Leonard Nimoy",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,poeta,fotógrafo,cantante,compositor"
+  },
+  {
+    "id": 12,
+    "query_name": "Robert_Rodriguez",
+    "name": "Robert Rodriguez",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Robert_Rodriguez_2019.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista,editor,actor,músico"
+  },
+  {
+    "id": 13,
+    "query_name": "Alan_Alda",
+    "name": "Alan Alda",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Alan_Alda_by_Bridget_Laudien_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,guionista"
+  },
+  {
+    "id": 14,
+    "query_name": "Mike_Newell",
+    "name": "Mike Newell",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Mike_Newell_at_WonderCon_2010_2.JPG",
+    "nationality": "británica",
+    "roles": "director de cine,televisión"
+  },
+  {
+    "id": 15,
+    "query_name": "Adrian_Lyne",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 16,
+    "query_name": "James_Cameron",
+    "name": "James Cameron",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:James_Cameron_by_Gage_Skidmore.jpg",
+    "nationality": "canadiense",
+    "roles": "director de cine,guionista,productor de cine,editor de cine,explorador marino"
+  },
+  {
+    "id": 17,
+    "query_name": "Tom_Shadyac",
+    "name": "Tom Shadyac",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productor,guionista,cómico"
+  },
+  {
+    "id": 18,
+    "query_name": "Steve_Oedekerk",
+    "name": "Steve Oedekerk",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "actor"
+  },
+  {
+    "id": 19,
+    "query_name": "John_Wayne",
+    "name": "John Wayne",
+    "nickname": "El Duque",
+    "pic": "https://commons.wikimedia.org/wiki/File:John_Wayne_-_still_portrait.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor"
+  },
+  {
+    "id": 20,
+    "query_name": "Frank_Marshall",
+    "name": "Frank Marshall",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Frank_Marshall_(chess_player).jpg",
+    "nationality": "estadounidense",
+    "roles": "ajedrecista"
+  },
+  {
+    "id": 21,
+    "query_name": "Costa-Gavras",
+    "name": "Costa-Gavras",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Costa-Gavras.JPG",
+    "nationality": "francesa,griega",
+    "roles": "director,guionista"
+  },
+  {
+    "id": 22,
+    "query_name": "George_Lucas",
+    "name": "George Lucas",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:George_Lucas_cropped_2009.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 23,
+    "query_name": "Sam_Firstenberg",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 24,
+    "query_name": "Rob_Reiner",
+    "name": "Rob Reiner",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Rob_Reiner,_Feb._1,_2013_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "productor de cine,actor,actor de televisión,director de cine,bloguero,escritor,actor de cine,guionista"
+  },
+  {
+    "id": 25,
+    "query_name": "Woody_Allen",
+    "name": "Woody Allen",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Woody_Allen_Cannes_2011.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,comediante,actor de cine,guionista,productor de cine,escritor,clarinetista,dramaturgo,músico de jazz,actor de género,periodista,músico,autor,escritor de ciencia ficción,compositor"
+  },
+  {
+    "id": 26,
+    "query_name": "Stephen_Sommers",
+    "name": "Stephen Sommers",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor"
+  },
+  {
+    "id": 27,
+    "query_name": "Billy_Wilder",
+    "name": "Billy Wilder",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Gloria_Swanson_%26_Billy_Wilder_-_ca._1950.JPG",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 28,
+    "query_name": "Francis_Ford Coppola",
+    "name": "Francis Ford Coppola",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Francis_Ford_Coppola_2011_CC.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 29,
+    "query_name": "Chris_Noonan",
+    "name": "Chris Noonan",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Chris_Noonan.jpg",
+    "nationality": "australiana",
+    "roles": "director de cine,productor de cine,guionista,actor"
+  },
+  {
+    "id": 30,
+    "query_name": "Patrick_Read Johnson",
+    "name": "Patrick Read Johnson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Patrick_Read_Johnson.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,escritor"
+  },
+  {
+    "id": 31,
+    "query_name": "Taylor_Hackford",
+    "name": "Taylor Hackford",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:TaylorHackfordHWOFJan2013.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine"
+  },
+  {
+    "id": 32,
+    "query_name": "Robert_Zemeckis",
+    "name": "Robert Zemeckis",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Robert_Zemeckis_%22The_Walk%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_(21835891403)_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 33,
+    "query_name": "George_Roy Hill",
+    "name": "George Roy Hill",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:George_Roy_Hill_(1970).jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,actor,director de teatro,productor de cine"
+  },
+  {
+    "id": 34,
+    "query_name": "Michael_Bay",
+    "name": "Michael Bay",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Michael.bay.png",
+    "nationality": "estadounidense",
+    "roles": "director,productor"
+  },
+  {
+    "id": 35,
+    "query_name": "Brian_De Palma",
+    "name": "Brian De Palma",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Brian_De_Palma_Deauville_2011.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 36,
+    "query_name": "William_Wyler",
+    "name": "William Wyler",
+    "nickname": "Willy",
+    "pic": "https://commons.wikimedia.org/wiki/File:William_Wyler_portrait.jpg",
+    "nationality": "alemania,suiza",
+    "roles": "director de cine,productor,guionista"
+  },
+  {
+    "id": 37,
+    "query_name": "Richard_Linklater",
+    "name": "Richard Linklater",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Richard_Linklater_April_2015.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor"
+  },
+  {
+    "id": 38,
+    "query_name": "Gary_Trousdale",
+    "name": "Gary Trousdale",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Gary_Trousdale.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista,animador"
+  },
+  {
+    "id": 39,
+    "query_name": "Jack_Lee Thompson",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 40,
+    "query_name": "Norman_Jewison",
+    "name": "Norman Jewison",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Norman_Jewison_CFC_in_LA_37.jpg",
+    "nationality": "canadiense",
+    "roles": "director de cine,productor de cine,actor,guionista,actor de cine"
+  },
+  {
+    "id": 41,
+    "query_name": "Martin_Brest",
+    "name": "Martin Brest",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "productor de cine,director de cine,editor de cine,escritor,guionista,actor"
+  },
+  {
+    "id": 42,
+    "query_name": "Tony_Scott",
+    "name": "Tony Scott",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Vincent_Thomas_Bridge_aerial_view.jpg",
+    "nationality": "británica,estadounidense",
+    "roles": "director de cine,productor de cine,guionista,actor,productor de televisión"
+  },
+  {
+    "id": 43,
+    "query_name": "John_Landis",
+    "name": "John Landis",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:John_landis.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,actor,productor"
+  },
+  {
+    "id": 44,
+    "query_name": "Penny_Marshall",
+    "name": "Penny Marshall",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Penny_Marshall_1976.jpg",
+    "nationality": "estadounidense",
+    "roles": "directora de cine,productora de cine,guionista,escritora,especialista de cine,cantante,bailarina,actriz de voz,comediante,actriz de cine,actriz de televisión"
+  },
+  {
+    "id": 45,
+    "query_name": "King_Vidor",
+    "name": "King Vidor",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:King_Vidor_Film_Daily_1919.png",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productor,guionista"
+  },
+  {
+    "id": 46,
+    "query_name": "John_Singleton",
+    "name": "John Singleton",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:John-Singleton-USC-football-event.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 47,
+    "query_name": "George_Cukor",
+    "name": "George Cukor",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:George_Cukor_Allan_Warren.jpg",
+    "nationality": "estadounidense",
+    "roles": "director"
+  },
+  {
+    "id": 48,
+    "query_name": "Ridley_Scott",
+    "name": "Ridley Scott",
+    "nickname": "R-Scott, Rid",
+    "pic": "https://commons.wikimedia.org/wiki/File:NASA_Journey_to_Mars_and_%E2%80%9CThe_Martian%22_(201508180030HQ).jpg",
+    "nationality": "británico",
+    "roles": "director,productor"
+  },
+  {
+    "id": 49,
+    "query_name": "Andy_Wachowski",
+    "name": "Lana Wachowski y Lilly Wachowski",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Lana_Wachowski,_Fantastic_Fest,_Cloud_Atlas.jpg",
+    "nationality": "estadounidense",
+    "roles": "directoras,guionistas,productoras de cine"
+  },
+  {
+    "id": 50,
+    "query_name": "Jeff_\"\"King Jeff\"\" Hollins",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 51,
+    "query_name": "Peter_Hewitt",
+    "name": "Peter Hewitt",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "británica",
+    "roles": "director de cine"
+  },
+  {
+    "id": 52,
+    "query_name": "Sam_Peckinpah",
+    "name": "Sam Peckinpah",
+    "nickname": "Peck",
+    "pic": "https://commons.wikimedia.org/wiki/File:Sam_Peckinpah.JPG",
+    "nationality": "estadounidense",
+    "roles": "director,guionista"
+  },
+  {
+    "id": 53,
+    "query_name": "David_Lean",
+    "name": "Sir David Lean",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:DavidLean1965.jpg",
+    "nationality": "británico",
+    "roles": "director de cine,productor,guionista,editor"
+  },
+  {
+    "id": 54,
+    "query_name": "Oliver_Stone",
+    "name": "Oliver Stone",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Oliver_Stone_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor,documentalista"
+  },
+  {
+    "id": 55,
+    "query_name": "Julian_Schnabel",
+    "name": "Julian Schnabel",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Julian_Schnabel.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,pintor"
+  },
+  {
+    "id": 56,
+    "query_name": "Wes_Anderson",
+    "name": "Wes Anderson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Wes_Anderson-20140206-85.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor,actor de voz"
+  },
+  {
+    "id": 57,
+    "query_name": "Peter_Jackson",
+    "name": "Peter Jackson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Peter_Jackson_SDCC_2014.jpg",
+    "nationality": "neozelandés",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 58,
+    "query_name": "Clint_Eastwood",
+    "name": "Clint Eastwood",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Clint_Eastwood_at_2010_New_York_Film_Festival.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,productor,músico,compositor"
+  },
+  {
+    "id": 59,
+    "query_name": "Edward_Burns",
+    "name": "Edward Burns",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Edward_Burns_cropped.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director de cine"
+  },
+  {
+    "id": 60,
+    "query_name": "John_Woo",
+    "name": "John Woo",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:John-Woo-Cannes.jpg",
+    "nationality": "",
+    "roles": "director de cine,productor de cine,guionista,editor de cine"
+  },
+  {
+    "id": 61,
+    "query_name": "Mel_Gibson",
+    "name": "Mel Gibson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Mel_Gibson_Cannes_2016.jpg",
+    "nationality": "estadounidense,australiana,irlandesa",
+    "roles": "actor,director,productor,guionista"
+  },
+  {
+    "id": 62,
+    "query_name": "Mel_Brooks",
+    "name": "Mel Brooks",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:MelBrooksApr10.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,productor,guionista"
+  },
+  {
+    "id": 63,
+    "query_name": "Stephen_Herek",
+    "name": "Stephen Herek",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine"
+  },
+  {
+    "id": 64,
+    "query_name": "Sir_Richard Attenborough",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 65,
+    "query_name": "Tim_Burton",
+    "name": "Tim Burton",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Tim_Burton_Frankenweenie_2012_3.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productor,escritor,dibujante,animador"
+  },
+  {
+    "id": 66,
+    "query_name": "Joel_Schumacher",
+    "name": "Joel Schumacher",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Joel_Schumacher.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 67,
+    "query_name": "Franklin_J. Schaffner",
+    "name": "Franklin Schaffner",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Franklin_J._Schaffner_(1977)_cropped.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,sindicalista"
+  },
+  {
+    "id": 68,
+    "query_name": "Harold_Ramis",
+    "name": "Harold Ramis",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:HaroldRamisOct2009.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,guionista"
+  },
+  {
+    "id": 69,
+    "query_name": "Martin_Scorsese",
+    "name": "Martin Scorsese",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Martin_Scorsese_Berlinale_2010_(cropped).jpg",
+    "nationality": "estadounidense,italiana",
+    "roles": "productor de cine,actor de cine,director de cine,guionista,editor de cine,actor de voz,director de televisión"
+  },
+  {
+    "id": 70,
+    "query_name": "Phillip_Noyce",
+    "name": "Phillip Noyce",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Phillip_Noyce_by_Gage_Skidmore.jpg",
+    "nationality": "australiana",
+    "roles": "director de cine,guionista,actor,productor de cine"
+  },
+  {
+    "id": 71,
+    "query_name": "John_Huston",
+    "name": "John Huston",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:John_Huston_-_publicity.JPG",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,actor"
+  },
+  {
+    "id": 72,
+    "query_name": "Ben_Stiller",
+    "name": "Ben Stiller",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Ben-Stiller-(MS1411200222).jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,cómico,productor,director"
+  },
+  {
+    "id": 73,
+    "query_name": "Andrew_Davis",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 74,
+    "query_name": "Hugh_Hudson",
+    "name": "Hugh Hudson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "británico",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 75,
+    "query_name": "Richard_Brooks",
+    "name": "Richard Brooks",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:RichardBrooks45.JPG",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor,escritor"
+  },
+  {
+    "id": 76,
+    "query_name": "Michael_Curtiz",
+    "name": "Michael Curtiz",
+    "nickname": "Miska",
+    "pic": "https://commons.wikimedia.org/wiki/File:Curtiz_1928_portrait.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,actor,escritor"
+  },
+  {
+    "id": 77,
+    "query_name": "Spike_Lee",
+    "name": "Spike Lee",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Spike_Lee_Peabody_Awards_2011_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista,actor,profesor"
+  },
+  {
+    "id": 78,
+    "query_name": "Thomas_Vinterberg",
+    "name": "Thomas Vinterberg",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Thomas_Vinterberg_Berlinale_2010.jpg",
+    "nationality": "danesa",
+    "roles": "director de cine,productor de cine,guionista"
+  },
+  {
+    "id": 79,
+    "query_name": "Renny_Harlin",
+    "name": "Renny Harlin",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Renny_Harlin_2_(cropped).jpg",
+    "nationality": "finlandés",
+    "roles": "director,productor,guionista,actor"
+  },
+  {
+    "id": 80,
+    "query_name": "Michael_C. Brown",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 81,
+    "query_name": "Amy_Heckerling",
+    "name": "Amy Heckerling",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "directora de cine"
+  },
+  {
+    "id": 82,
+    "query_name": "Kevin_Smith",
+    "name": "Kevin Smith",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Kevin_Smith_(48477230947)_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "guionista,director,productor,actor,comediante"
+  },
+  {
+    "id": 83,
+    "query_name": "Walter_Salles",
+    "name": "Walter Salles",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Walter_Salles_at_TIFF_2012_(cropped).jpg",
+    "nationality": "brasileña",
+    "roles": "guionista,director de cine,productor de cine,piloto de automovilismo"
+  },
+  {
+    "id": 84,
+    "query_name": "John_Milius",
+    "name": "John Milius",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,productor de cine,actor"
+  },
+  {
+    "id": 85,
+    "query_name": "Hal_Ashby",
+    "name": "Hal Ashby",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productor de cine,editor de cine,actor,actor de cine"
+  },
+  {
+    "id": 86,
+    "query_name": "Jon_Turteltaub",
+    "name": "Jon Turteltaub",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Jon_Turteltaub_at_WonderCon_2010_3.JPG",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 87,
+    "query_name": "George_A. Romero",
+    "name": "George A. Romero",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:George_Romero,_66%C3%A8me_Festival_de_Venise_(Mostra).jpg",
+    "nationality": "estadounidense,canadiense",
+    "roles": "director,escritor,guionista,montador,actor"
+  },
+  {
+    "id": 88,
+    "query_name": "Neil_Jordan",
+    "name": "Neil Jordan",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Neil_Jordan.4756.jpg",
+    "nationality": "irlandesa",
+    "roles": "director de cine,guionista"
+  },
+  {
+    "id": 89,
+    "query_name": "Brad_Silberling",
+    "name": "Brad Silberling",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,productor de cine"
+  },
+  {
+    "id": 90,
+    "query_name": "Mike_Nichols",
+    "name": "Mike Nichols",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Mikenichols.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,director de teatro,comediante"
+  },
+  {
+    "id": 91,
+    "query_name": "Harold_Becker",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 92,
+    "query_name": "Edward_Zwick",
+    "name": "Edward Zwick",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Edward_Zwick_by_Bridget_Laudien.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 93,
+    "query_name": "Sergio_Leone",
+    "name": "Sergio Leone",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Sergio_Leone.jpg",
+    "nationality": "italiana",
+    "roles": "guionista,productor,director de cine"
+  },
+  {
+    "id": 94,
+    "query_name": "Jon_Amiel",
+    "name": "Jon Amiel",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Jon_Amiel_Creation_TIFF09_(Cropped1).jpg",
+    "nationality": "británica",
+    "roles": "director de cine,productor de cine,director de televisión"
+  },
+  {
+    "id": 95,
+    "query_name": "Wolfgang_Petersen",
+    "name": "Wolfgang Petersen",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Wolfgang_Petersen.jpg",
+    "nationality": "alemana",
+    "roles": "director de cine,productor de cine,guionista"
+  },
+  {
+    "id": 96,
+    "query_name": "Bobby_Farrelly",
+    "name": "Bobby Farrelly",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Bobby_Farrelly_at_the_2009_Tribeca_Film_Festival.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,productor de cine,productor de televisión"
+  },
+  {
+    "id": 97,
+    "query_name": "Guy_Hamilton",
+    "name": "Guy Hamilton",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Opnamen_James_Bond_film_Amsterdam_voor_Diamonds_are_for_ever,_Bestanddeelnr_924-7004.jpg",
+    "nationality": "británica",
+    "roles": "director de cine,guionista"
+  },
+  {
+    "id": 98,
+    "query_name": "Roger_Donaldson",
+    "name": "Roger Donaldson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "australiano",
+    "roles": "director de cine,productor,guionista"
+  },
+  {
+    "id": 99,
+    "query_name": "Rob_Cohen",
+    "name": "Rob Cohen",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:US_Navy_040618-N-6817C-090_Director_Rob_Cohen_visits_with_Commanding_Officer,_USS_Abraham_Lincoln_(CVN_72),_Capt._Kendall_L._Card,_on_the_bridge_after_the_completion_of_filming,_the_upcoming_motion_picture_Stealth_(cropped).JPG",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista,actor"
+  },
+  {
+    "id": 100,
+    "query_name": "Warren_Beatty",
+    "name": "Warren Beatty",
+    "nickname": "The Chief",
+    "pic": "https://commons.wikimedia.org/wiki/File:Warren_Beatty_-_1975.JPG",
+    "nationality": "estadounidense",
+    "roles": "actor,productor,director,guionista"
+  },
+  {
+    "id": 101,
+    "query_name": "Barry_Sonnenfeld",
+    "name": "Barry Sonnenfeld",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Barry_Sonnenfeld_2012.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,director de fotografía"
+  },
+  {
+    "id": 102,
+    "query_name": "Peter_Weir",
+    "name": "Peter Weir",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:PeterWeirApr2011.jpg",
+    "nationality": "australiano",
+    "roles": "director de cine"
+  },
+  {
+    "id": 103,
+    "query_name": "David_Cronenberg",
+    "name": "David Cronenberg",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:David_Cronenberg_Cannes_2014.jpg",
+    "nationality": "canadiense",
+    "roles": "director de cine,productor,guionista,actor"
+  },
+  {
+    "id": 104,
+    "query_name": "John_McTiernan",
+    "name": "John McTiernan",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:John_McTiernan_at_the_Cin%C3%A9math%C3%A8que_Fran%C3%A7aise_2.JPG",
+    "nationality": "estadounidense",
+    "roles": "director de cine"
+  },
+  {
+    "id": 105,
+    "query_name": "Barry_Levinson",
+    "name": "Barry Levinson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Barry_Levinson_Shankbone_2009_Tribeca.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,actor,productor de cine"
+  },
+  {
+    "id": 106,
+    "query_name": "Tim_Robbins",
+    "name": "Tim Robbins",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:TimRobbinsTIFFSept2012.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,productor,guionista,músico,activista"
+  },
+  {
+    "id": 107,
+    "query_name": "Kevin_Costner",
+    "name": "Kevin Costner",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Kevin_Costner_2014.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,productor"
+  },
+  {
+    "id": 108,
+    "query_name": "Stephen_Frears",
+    "name": "Stephen Frears",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Stephen_Frears_01.jpg",
+    "nationality": "británica",
+    "roles": "director,guionista"
+  },
+  {
+    "id": 109,
+    "query_name": "John_Ford",
+    "name": "John Ford",
+    "nickname": "Pappy, Jack",
+    "pic": "https://commons.wikimedia.org/wiki/File:John_Ford_1946.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista,actor"
+  },
+  {
+    "id": 110,
+    "query_name": "Sheldon_Lettich",
+    "name": "Sheldon Lettich",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,productor de cine"
+  },
+  {
+    "id": 111,
+    "query_name": "Tom_Tykwer",
+    "name": "Tom Tykwer",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Tom_Tykwer_(Berlin_Film_Festival_2009).jpg",
+    "nationality": "alemán",
+    "roles": "productor,guionista,director,compositor"
+  },
+  {
+    "id": 112,
+    "query_name": "Michael_Cimino",
+    "name": "Michael Cimino",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:MichaelCimino2003.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 113,
+    "query_name": "Bruce_Beresford",
+    "name": "Bruce Beresford",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "australiana",
+    "roles": "director de cine,guionista,productor de cine"
+  },
+  {
+    "id": 114,
+    "query_name": "David_Lynch",
+    "name": "David Lynch",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:David_Lynch_Cannes_2017.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista,actor,pintor,músico"
+  },
+  {
+    "id": 115,
+    "query_name": "Sam_Raimi",
+    "name": "Sam Raimi",
+    "nickname": "Sammy",
+    "pic": "https://commons.wikimedia.org/wiki/File:Sam_Raimi_(14586587650).jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productor,guionista,actor"
+  },
+  {
+    "id": 116,
+    "query_name": "John_Carpenter",
+    "name": "John Carpenter",
+    "nickname": "JC",
+    "pic": "https://commons.wikimedia.org/wiki/File:JohnCarpenter2010_(Cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,compositor,actor"
+  },
+  {
+    "id": 117,
+    "query_name": "Chuck_Russell",
+    "name": "Chuck Russell",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productor de cine,guionista,actor de cine"
+  },
+  {
+    "id": 118,
+    "query_name": "John_Boorman",
+    "name": "John Boorman",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:John_Boorman_Cannes_2014.jpg",
+    "nationality": "británico",
+    "roles": "director"
+  },
+  {
+    "id": 119,
+    "query_name": "Atom_Egoyan",
+    "name": "Atom Egoyan",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Atomegoya.jpg",
+    "nationality": "canadiense",
+    "roles": "cineasta"
+  },
+  {
+    "id": 120,
+    "query_name": "Alfred_Hitchcock",
+    "name": "Alfred Hitchcock",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Hitchcock,_Alfred_02.jpg",
+    "nationality": "británica,estadounidense",
+    "roles": "director,editor,productor de cine,guionista,director artístico."
+  },
+  {
+    "id": 121,
+    "query_name": "Ari_S. Kirschenbaum",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 122,
+    "query_name": "William_Friedkin",
+    "name": "William Friedkin",
+    "nickname": "Hurricane Billy",
+    "pic": "https://commons.wikimedia.org/wiki/File:William_Friedkin.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 123,
+    "query_name": "Steve_Miner",
+    "name": "Steve Miner",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,televisiónproductor de cine,televisión"
+  },
+  {
+    "id": 124,
+    "query_name": "Paul_Mazursky",
+    "name": "Paul Mazursky",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Paul_Mazursky.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,productor cinematográfico,actor"
+  },
+  {
+    "id": 125,
+    "query_name": "Fred_Zinnemann",
+    "name": "Fred Zinnemann",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Fred_Zinnemann_1940s.jpg",
+    "nationality": "estadounidense",
+    "roles": "productor de cine,director de cine,fotógrafo"
+  },
+  {
+    "id": 126,
+    "query_name": "Brian_Levant",
+    "name": "Brian Levant",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director,escritor,productor"
+  },
+  {
+    "id": 127,
+    "query_name": "Abel_Ferrara",
+    "name": "Abel Ferrara",
+    "nickname": "Jimmy Laine",
+    "pic": "https://commons.wikimedia.org/wiki/File:Abel_Ferrara_Cannes_2017.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,actor,productor,editor,director de fotografía"
+  },
+  {
+    "id": 128,
+    "query_name": "Ted_Kotcheff",
+    "name": "Ted Kotcheff",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "canadiense",
+    "roles": "director,productor"
+  },
+  {
+    "id": 129,
+    "query_name": "F._Gary Gray",
+    "name": "F. Gary Gray",
+    "nickname": "Gary Gray",
+    "pic": "https://commons.wikimedia.org/wiki/File:F._Gary_Gray_(21226277825).jpg",
+    "nationality": "estadounidense",
+    "roles": "director de vídeos musicales,director de cine,productor,actor"
+  },
+  {
+    "id": 130,
+    "query_name": "Joel_Coen",
+    "name": "Hermanos Coen",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Coen_brothers_Cannes_2015_2.jpg",
+    "nationality": "estadounidenses",
+    "roles": "directores,productores,guionistas,montadores"
+  },
+  {
+    "id": 131,
+    "query_name": "Jerry_Zucker",
+    "name": "Jerry Zucker",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Jerry_Zucker_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "productor de cine,director de cine,actor,guionista"
+  },
+  {
+    "id": 132,
+    "query_name": "Sydney_Pollack",
+    "name": "Sydney Pollack",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Sydney_Pollack.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,actor"
+  },
+  {
+    "id": 133,
+    "query_name": "Herbert_Ross",
+    "name": "Herbert Ross",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "productor de cine,director de cine,actor,coreógrafo"
+  },
+  {
+    "id": 134,
+    "query_name": "Hugh_Wilson",
+    "name": "Hugh Dale Wilson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Hugh_Wilson_71.jpg",
+    "nationality": "neozelandés",
+    "roles": ""
+  },
+  {
+    "id": 135,
+    "query_name": "David_O. Russell",
+    "name": "David Russell",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:David_O._Russell_avp_2014.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor"
+  },
+  {
+    "id": 136,
+    "query_name": "John_Glen",
+    "name": "John Glen",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "británica",
+    "roles": "director de cine,director de televisión,editor de cine,guionista"
+  },
+  {
+    "id": 137,
+    "query_name": "Stephen_Hopkins",
+    "name": "Stephen Hopkins",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Stephen_Hopkins_(NYPL_NYPG97-F76-420410).jpg",
+    "nationality": "británica,estadounidense",
+    "roles": "político,abogado,juez,propietario de esclavos"
+  },
+  {
+    "id": 138,
+    "query_name": "John_Sturges",
+    "name": "John Sturges",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine"
+  },
+  {
+    "id": 139,
+    "query_name": "Sue_Corcoran",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 140,
+    "query_name": "Ivan_Reitman",
+    "name": "Ivan Reitman",
+    "nickname": "Ivanco",
+    "pic": "https://commons.wikimedia.org/wiki/File:Ivan_Reitman_2011.jpg",
+    "nationality": "canadiense",
+    "roles": "director,productor"
+  },
+  {
+    "id": 141,
+    "query_name": "Martin_Campbell",
+    "name": "Martin Campbell",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Martin_Campbell.jpg",
+    "nationality": "neozelandés",
+    "roles": "director,productor"
+  },
+  {
+    "id": 142,
+    "query_name": "Elia_Kazan",
+    "name": "Elia Kazan",
+    "nickname": "Gadg",
+    "pic": "https://commons.wikimedia.org/wiki/File:Elia_Kazan_NYWTS_b.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,actor,productor,guionista,novelista"
+  },
+  {
+    "id": 143,
+    "query_name": "Bille_August",
+    "name": "Bille August",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Bille_August_-_Malm%C3%B6_1988.jpg",
+    "nationality": "danesa",
+    "roles": "director de cine,guionista,director de fotografía,fotógrafo"
+  },
+  {
+    "id": 144,
+    "query_name": "Michael_Ritchie",
+    "name": "Michael Ritchie",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine"
+  },
+  {
+    "id": 145,
+    "query_name": "Joe_Dante",
+    "name": "Joe Dante",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Joe_Dante_66%C3%A8me_Festival_de_Venise_(Mostra)_2.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,editor de cine,guionista,actor,actor de cine,productor de cine,productor de televisión"
+  },
+  {
+    "id": 146,
+    "query_name": "Michael_Crichton",
+    "name": "Michael Crichton",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:MichaelCrichton_2.jpg",
+    "nationality": "estadounidense",
+    "roles": "médico,escritor,cineasta"
+  },
+  {
+    "id": 147,
+    "query_name": "Todd_Solondz",
+    "name": "Todd Solondz",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Toddsolondz.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista"
+  },
+  {
+    "id": 148,
+    "query_name": "Simon_Wincer",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 149,
+    "query_name": "Russell_Mulcahy",
+    "name": "Russell Mulcahy",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Russel_Mulchany,.jpg",
+    "nationality": "australiana",
+    "roles": "director de cine,guionista"
+  },
+  {
+    "id": 150,
+    "query_name": "Rick_Rosenthal",
+    "name": "Rick Rosenthal",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine."
+  },
+  {
+    "id": 151,
+    "query_name": "Dwight_H. Little",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 152,
+    "query_name": "Chris_Columbus",
+    "name": "Chris Columbus",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Chris_Columbus.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 153,
+    "query_name": "Kenneth_Branagh",
+    "name": "Sir Kenneth Branagh",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:KennethBranaghApr2011.jpg",
+    "nationality": "británica",
+    "roles": "actor,director,guionista"
+  },
+  {
+    "id": 154,
+    "query_name": "Dennis_Dugan",
+    "name": "Dennis Dugan",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "comediante,actor,director"
+  },
+  {
+    "id": 155,
+    "query_name": "Martin_Ritt",
+    "name": "Martin Ritt",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Martin_Ritt_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,actor,guionista"
+  },
+  {
+    "id": 156,
+    "query_name": "Michael_Lehmann",
+    "name": "Michael Lehmann",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,televisión"
+  },
+  {
+    "id": 157,
+    "query_name": "Frank_Capra",
+    "name": "Frank Capra",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Frank_Capra.JPG",
+    "nationality": "estadounidense",
+    "roles": "director,productor,escritor"
+  },
+  {
+    "id": 158,
+    "query_name": "Roland_Emmerich",
+    "name": "Roland Emmerich",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Roland_Emmerich_Deauville_2013.jpg",
+    "nationality": "alemán",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 159,
+    "query_name": "John_Frankenheimer",
+    "name": "John Frankenheimer",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:John_Frankenheimer_on_the_set_of_%22Andersonville%22_(cropped).JPG",
+    "nationality": "estadounidense",
+    "roles": "director de cine,director de televisión"
+  },
+  {
+    "id": 160,
+    "query_name": "Frank_Oz",
+    "name": "Frank Oz",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Frank_Oz_2012.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,actor,titiritero,guionista,actor de cine,actor de televisión,actor de voz"
+  },
+  {
+    "id": 161,
+    "query_name": "Neil_LaBute",
+    "name": "Neil LaBute",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Neil_LaBute_2010_photo_cropped.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,escritor,autor"
+  },
+  {
+    "id": 162,
+    "query_name": "Tobe_Hooper",
+    "name": "Tobe Hooper",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Massacre_%C3%A0_la_tron%C3%A7onneuse_40eme_anniversaire_Grand_Rex_23_septembre_2014_-_29.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor"
+  },
+  {
+    "id": 163,
+    "query_name": "James_Ivory",
+    "name": "James Ivory",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:James_Ivory_(1991.09).jpg",
+    "nationality": "estadounidense",
+    "roles": "director"
+  },
+  {
+    "id": 164,
+    "query_name": "Joe_Johnston",
+    "name": "Joe Johnston",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Joe_Johnston.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,diseñador"
+  },
+  {
+    "id": 165,
+    "query_name": "Mark_DiSalle",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 166,
+    "query_name": "John_Guillermin",
+    "name": "John Guillermin",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "británica",
+    "roles": "director,escritor,productor de cine"
+  },
+  {
+    "id": 167,
+    "query_name": "Barbet_Schroeder",
+    "name": "Barbet Schroeder",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Barbet_Schroeder_Cannes_2017.jpg",
+    "nationality": "francesa,suiza",
+    "roles": "director,productor"
+  },
+  {
+    "id": 168,
+    "query_name": "Robert_Altman",
+    "name": "Robert Altman",
+    "nickname": "Bob",
+    "pic": "https://commons.wikimedia.org/wiki/File:Robert_Altman_-_1983.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,actor"
+  },
+  {
+    "id": 169,
+    "query_name": "Bernardo_Bertolucci",
+    "name": "Bernardo Bertolucci",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Bernardo_Bertolucci.jpg",
+    "nationality": "italiana",
+    "roles": "director de cine,guionista,productor de cine,actor de cine,editor de cine,poeta,dramaturgo"
+  },
+  {
+    "id": 170,
+    "query_name": "Don_Bluth",
+    "name": "Don Bluth",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:DonBluth.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,productor de cine,animador de personajes"
+  },
+  {
+    "id": 171,
+    "query_name": "Keenen_Ivory Wayans",
+    "name": "Keenen Ivory Wayans",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:KeenenIvoryWayansHWOFMay2013.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,actor,guionista,actor de televisión,actor de cine,productor de cine,productor de televisión"
+  },
+  {
+    "id": 172,
+    "query_name": "Richard_Donner",
+    "name": "Richard Donner",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Richard-Donner.png",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productor"
+  },
+  {
+    "id": 173,
+    "query_name": "Luc_Besson",
+    "name": "Luc Besson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Luc_Besson_by_Gage_Skidmore.jpg",
+    "nationality": "francesa",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 174,
+    "query_name": "Walter_Hill",
+    "name": "Walter Hill",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Walter_Hill_1137.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,productor"
+  },
+  {
+    "id": 175,
+    "query_name": "David_Fincher",
+    "name": "David Fincher",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:David_Fincher_(2012)_3.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor"
+  },
+  {
+    "id": 176,
+    "query_name": "Rob_Minkoff",
+    "name": "Rob Minkoff",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Rob_Minkoff.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,animador,productor"
+  },
+  {
+    "id": 177,
+    "query_name": "Michael_Mann",
+    "name": "Michael Mann",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB_%D0%9C%D0%B0%D0%BD%D0%BD_%D0%BD%D0%B0_69-%D0%BC_%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D0%BA%D0%B8%D0%BD%D0%BE%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5..JPG",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor"
+  },
+  {
+    "id": 178,
+    "query_name": "Mike_Figgis",
+    "name": "Mike Figgis",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Mike_Figgis_-_Deloitte_Ignite_2011_(2).jpg",
+    "nationality": "británica",
+    "roles": "director,guionista,compositor"
+  },
+  {
+    "id": 179,
+    "query_name": "John_Sayles",
+    "name": "John Sayles",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:John_Sayles.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director de cine,guionista,escritor,editor de cine,productor de cine"
+  },
+  {
+    "id": 180,
+    "query_name": "Albert_Hughes",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 181,
+    "query_name": "Akira_Kurosawa",
+    "name": "Akira Kurosawa",
+    "nickname": "El Emperador",
+    "pic": "https://commons.wikimedia.org/wiki/File:Akirakurosawa-onthesetof7samurai-1953-page88.jpg",
+    "nationality": "japonesa",
+    "roles": "director de cine,productor de cine,guionista,editor de cine,escritor"
+  },
+  {
+    "id": 182,
+    "query_name": "Milos_Forman",
+    "name": "Miloš Forman",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Milos_Forman.jpg",
+    "nationality": "checo-estadounidense",
+    "roles": "director,actor,guionista"
+  },
+  {
+    "id": 183,
+    "query_name": "Hal_Needham",
+    "name": "Hal Needham",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Hal_needham_2011.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,actor de cine,especialista de cine,actor de televisión,productor de cine"
+  },
+  {
+    "id": 184,
+    "query_name": "Barbra_Streisand",
+    "name": "Barbra Streisand",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Barbra_Streisand_My_Name_is_Barbra_television_special_1965.JPG",
+    "nationality": "estadounidense",
+    "roles": "cantante,compositora,actriz,productora,directora de cine,guionista"
+  },
+  {
+    "id": 185,
+    "query_name": "John_Schlesinger",
+    "name": "John Schlesinger",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "británica",
+    "roles": "director de cine,actor,guionista,director de televisión"
+  },
+  {
+    "id": 186,
+    "query_name": "George_Miller",
+    "name": "George Miller",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:George_Miller_Cannes_2016_2.jpg",
+    "nationality": "australiana",
+    "roles": "director,productor,guionista médico"
+  },
+  {
+    "id": 187,
+    "query_name": "Frank_Perry",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 188,
+    "query_name": "Gus_Van Sant",
+    "name": "Gus Van Sant",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Gus_Van_Sant_Cannes_2015.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,fotógrafo,guionista,productor de cine,editor de cine,actor,músico"
+  },
+  {
+    "id": 189,
+    "query_name": "Joseph_Ruben",
+    "name": "Joseph Ruben",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,productor de cine"
+  },
+  {
+    "id": 190,
+    "query_name": "Whit_Stillman",
+    "name": "Whit Stillman",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Whit_Stillman_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,productor de cine,actor de cine"
+  },
+  {
+    "id": 191,
+    "query_name": "Richard_Benjamin",
+    "name": "Richard Benjamin",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Richard_Benjamin.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,actor,guionista,actor de televisión,actor de cine"
+  },
+  {
+    "id": 192,
+    "query_name": "Paul_Anderson",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 193,
+    "query_name": "Ronald_Neame",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Ronald-neame.jpeg",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 194,
+    "query_name": "Donald_Petrie",
+    "name": "Donald Petrie",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Donald_Petrie.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,actor,productor"
+  },
+  {
+    "id": 195,
+    "query_name": "Brad_Anderson",
+    "name": "Brad Anderson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Brad_Anderson.0967.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,editor de cine,productor ejecutivo,director de televisión"
+  },
+  {
+    "id": 196,
+    "query_name": "Anthony_Minghella",
+    "name": "Anthony Minghella",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "británico",
+    "roles": "director,productor,guionista,actor"
+  },
+  {
+    "id": 197,
+    "query_name": "David_Zucker",
+    "name": "David Zucker",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:David_Zucker_at_Improv_Boston.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productor de cine,guionista de cine,actor"
+  },
+  {
+    "id": 198,
+    "query_name": "Peter_Segal",
+    "name": "Peter Segal",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Peter_Segal_WonderCon2008.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista,actor"
+  },
+  {
+    "id": 199,
+    "query_name": "Wes_Craven",
+    "name": "Wes Craven",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Wes_Craven_2010.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista,actor"
+  },
+  {
+    "id": 200,
+    "query_name": "Emile_Ardolino",
+    "name": "Emile Ardolino",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,coreógrafo,productor"
+  },
+  {
+    "id": 201,
+    "query_name": "Steven_Seagal",
+    "name": "Steven Seagal",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Steven_Seagal_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense,rusa,",
+    "roles": "actor,director,productor,guionista,artista marcial,músico."
+  },
+  {
+    "id": 202,
+    "query_name": "Jeff_Burr",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 203,
+    "query_name": "Robert_Redford",
+    "name": "Robert Redford",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Robert_Redford_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,productor,director,filántropo,activista"
+  },
+  {
+    "id": 204,
+    "query_name": "Matt_Reeves",
+    "name": "Matt Reeves",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Matt_Reeves_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor de cine"
+  },
+  {
+    "id": 205,
+    "query_name": "Jonathan_Demme",
+    "name": "Jonathan Demme",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Jonathan_Demme_May_2015.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 206,
+    "query_name": "Darren_Aronofsky",
+    "name": "Darren Aronofsky",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:OIFF_2015-07-17_184409_-_Darren_Aronofsky.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 207,
+    "query_name": "John_Waters",
+    "name": "John Waters",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:John_Waters_at_EIFF_cropped.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,actor,escritor,fotógrafo"
+  },
+  {
+    "id": 208,
+    "query_name": "Vincente_Minnelli",
+    "name": "Vincente Minnelli",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director"
+  },
+  {
+    "id": 209,
+    "query_name": "Ron_Howard",
+    "name": "Ron Howard",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Ron_Howard_2011_Shankbone_2.JPG",
+    "nationality": "estadounidense",
+    "roles": "director,actor,productor"
+  },
+  {
+    "id": 210,
+    "query_name": "Steve_Barron",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 211,
+    "query_name": "Roger_Spottiswoode",
+    "name": "Roger Spottiswoode",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "británica,canadiense",
+    "roles": "director de cine,editor de cine,guionista"
+  },
+  {
+    "id": 212,
+    "query_name": "Garry_Marshall",
+    "name": "Garry Marshall",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Garry_Marshall_January_2013.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,actor,productor,escritor"
+  },
+  {
+    "id": 213,
+    "query_name": "Bob_Rafelson",
+    "name": "Bob Rafelson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Bob_Rafelson.JPG",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,productor de cine,escritor"
+  },
+  {
+    "id": 214,
+    "query_name": "Quentin_Tarantino",
+    "name": "Quentin Tarantino",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Quentin_Tarantino_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,guionista,director de cine,productor de cine,actor de cine,escritor,editor de cine,actor de televisión"
+  },
+  {
+    "id": 215,
+    "query_name": "Mira_Nair",
+    "name": "Mira Nair",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Mira_Nair.jpg",
+    "nationality": "india",
+    "roles": "directora de cine"
+  },
+  {
+    "id": 216,
+    "query_name": "Jean-Jacques_Annaud",
+    "name": "Jean-Jacques Annaud",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:ANNAUD_Jean_Jacques-24x30-1998b.jpg",
+    "nationality": "francesa",
+    "roles": "productor de cine,director de cine,guionista,actor de cine"
+  },
+  {
+    "id": 217,
+    "query_name": "Kevin_Reynolds",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 218,
+    "query_name": "Michael_Caton-Jones",
+    "name": "Michael Caton-Jones",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "británica",
+    "roles": "director de cine"
+  },
+  {
+    "id": 219,
+    "query_name": "Paul_Verhoeven",
+    "name": "Paul Verhoeven",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Paul_Verhoeven_Cannes_2016.jpg",
+    "nationality": "neerlandesa",
+    "roles": "director de cine"
+  },
+  {
+    "id": 220,
+    "query_name": "Howard_Hawks",
+    "name": "Howard Hawks",
+    "nickname": "The Silver Fox",
+    "pic": "https://commons.wikimedia.org/wiki/File:Howard_Hawks_head_shot.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor de cine,guionista"
+  },
+  {
+    "id": 221,
+    "query_name": "Richard_Marquand",
+    "name": "Richard Marquand",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "británica",
+    "roles": "director de cine,director de televisión"
+  },
+  {
+    "id": 222,
+    "query_name": "Michael_Moore",
+    "name": "Michael Moore",
+    "nickname": "The Big Man",
+    "pic": "https://commons.wikimedia.org/wiki/File:Michael_Moore_2011_Shankbone_4.JPG",
+    "nationality": "estadounidense",
+    "roles": "director,productor,documentalista,escritor,guionista,actor,activista"
+  },
+  {
+    "id": 223,
+    "query_name": "Philip_Kaufman",
+    "name": "Philip Kaufman",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Philip_Kaufman_03.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor de cine,actor de voz,director de cine,guionista,productor de cine"
+  },
+  {
+    "id": 224,
+    "query_name": "John_G. Avildsen",
+    "name": "John G. Avildsen",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:JohnAvildsen.png",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor de cine"
+  },
+  {
+    "id": 225,
+    "query_name": "George_P. Cosmatos",
+    "name": "George P. Cosmatos",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "griega,italiana",
+    "roles": "director de cine,guionista"
+  },
+  {
+    "id": 226,
+    "query_name": "Baz_Luhrmann",
+    "name": "Baz Luhrmann",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Baz_Luhrmann.jpg",
+    "nationality": "australiana",
+    "roles": "director de cine,actor,guionista,productor de cine,escritor"
+  },
+  {
+    "id": 227,
+    "query_name": "Stephen_Fry",
+    "name": "Stephen Fry",
+    "nickname": "Comediante, actor, director de cine, escritor",
+    "pic": "https://commons.wikimedia.org/wiki/File:Stephen_Fry_June_2016.jpg",
+    "nationality": "británica",
+    "roles": "actor,comediante,presentador de televisión,guionista,autobiógrafo,escritor,realizador,actor de televisión,novelista,actor de teatro,escritor de ciencia ficción,actor de cine,periodista,director de cine,improvisador,performer,narrador"
+  },
+  {
+    "id": 228,
+    "query_name": "Paul_Michael Glaser",
+    "name": "Paul Michael Glaser",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Paul_Michael_Glaser_at_F.I.S.T_premier_1978_cropped_and_airbrushed.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director de cine,actor de televisión,guionista,productor de cine"
+  },
+  {
+    "id": 229,
+    "query_name": "Curtis_Hanson",
+    "name": "Curtis Hanson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Curtis_Hanson_by_David_Shankbone.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productor,guionista"
+  },
+  {
+    "id": 230,
+    "query_name": "Mike_Leigh",
+    "name": "Mike Leigh",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Mike_Leigh_Cannes_2014.jpg",
+    "nationality": "británica",
+    "roles": "director de cine,actor,dramaturgo,director de teatro,guionista,escritor,autor,director de televisión"
+  },
+  {
+    "id": 231,
+    "query_name": "Scott_Hicks",
+    "name": "Scott Hicks",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Scott_Hicks.jpg",
+    "nationality": "australiana",
+    "roles": "director de cine,guionista"
+  },
+  {
+    "id": 232,
+    "query_name": "Frank_Darabont",
+    "name": "Frank Darabont",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Frank_Darabont_at_the_PaleyFest_2011_-_The_Walking_Dead_panel.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 233,
+    "query_name": "Roland_Joffe",
+    "name": "Roland Joffé",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:RolandJoffe_OffPlusCamera.JPG",
+    "nationality": "británica,francesa",
+    "roles": "director de cine,productor de cine,guionista,director de televisión"
+  },
+  {
+    "id": 234,
+    "query_name": "Bryan_Singer",
+    "name": "Bryan Singer",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Brian_Singer_%22International_Competition_Jury%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_(22427114066)_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 235,
+    "query_name": "Lawrence_Kasdan",
+    "name": "Lawrence Kasdan",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Lawrence_Kasdan_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense",
+    "roles": "guionista,director de cine,actor,productor de cine"
+  },
+  {
+    "id": 236,
+    "query_name": "Steven_Soderbergh",
+    "name": "Steven Soderbergh",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Soderbergh_cropped_2009.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,director de fotografía,productor de cine,guionista,editor de cine,director de televisión,productor de televisión,actor,camarógrafo,productor ejecutivo,showrunner"
+  },
+  {
+    "id": 237,
+    "query_name": "John_Pasquin",
+    "name": "John Pasquin",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director,productor"
+  },
+  {
+    "id": 238,
+    "query_name": "Ang_Lee",
+    "name": "Ang Lee",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Ang_Lee_-_66eme_Festival_de_Venise_(Mostra)_2.jpg",
+    "nationality": "taiwanés,estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 239,
+    "query_name": "Stanley_Donen",
+    "name": "Stanley Donen",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Stanley_Donen.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,coreógrafo,bailarín"
+  },
+  {
+    "id": 240,
+    "query_name": "Robert_Wise",
+    "name": "Robert Wise",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Robert_wise_1990.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productor de cine,editor de cine,sindicalista"
+  },
+  {
+    "id": 241,
+    "query_name": "Jan_De Bont",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 242,
+    "query_name": "Sidney_J. Furie",
+    "name": "Sidney J. Furie",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "canadiense",
+    "roles": "director de cine,productor de cine,guionista"
+  },
+  {
+    "id": 243,
+    "query_name": "Andrew_Bergman",
+    "name": "Andrew Bergman",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "guionista,productor de cine,director de cine,escritor,biógrafo"
+  },
+  {
+    "id": 244,
+    "query_name": "Ryan_Little",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 245,
+    "query_name": "Bob_Fosse",
+    "name": "Bob Fosse",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Bob_Fosse_1963_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,actor de cine,coreógrafo,guionista,actor,director de teatro,autor,libretista,bailarín,bailarín de ballet"
+  },
+  {
+    "id": 246,
+    "query_name": "Doug_Liman",
+    "name": "Doug Liman",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Doug_Liman_avp_2014.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,director de fotografía"
+  },
+  {
+    "id": 247,
+    "query_name": "Peter_Hyams",
+    "name": "Peter Hyams",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionistay director de fotografía"
+  },
+  {
+    "id": 248,
+    "query_name": "Ron_Shelton",
+    "name": "Ron Shelton",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,beisbolista,guionista,productor de cine"
+  },
+  {
+    "id": 249,
+    "query_name": "Andrew_Fleming",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 250,
+    "query_name": "Andrei_Konchalovsky",
+    "name": "Andréi Serguéyevich Mijalkov-Konchalovski",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Andrei-Konchalovskiy-2.jpg",
+    "nationality": "estadounidense,francesa,rusa,soviética",
+    "roles": "director de cine,productor de cine,guionista,actor,director de teatro,profesor de educación superior,realizador,productor,periodista,memorialista,productor de televisión,productor de teatro,publicista,prosista"
+  },
+  {
+    "id": 251,
+    "query_name": "Danny_Boyle",
+    "name": "Danny Boyle",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Danny_Boyle_Red_Carpet_T2_Trainspotting_Berlinale_2017_02.jpg",
+    "nationality": "británico",
+    "roles": "director,productor"
+  },
+  {
+    "id": 252,
+    "query_name": "Tom_Hanks",
+    "name": "Tom Hanks",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Tom_Hanks_TIFF_2019.jpg",
+    "nationality": "estadounidense,griego",
+    "roles": "actor,productor,guionista,director"
+  },
+  {
+    "id": 253,
+    "query_name": "John_Lasseter",
+    "name": "John Lasseter",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:John_Lasseter,_Big_Hero_6,_27th_Tokyo_International_Film_Festival.jpg",
+    "nationality": "estadounidense",
+    "roles": "animador,director,productor de cine"
+  },
+  {
+    "id": 254,
+    "query_name": "John_Dahl",
+    "name": "John Dahl",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:JohnDahlJun07.jpg",
+    "nationality": "estadounidense",
+    "roles": "guionista,director de cine,director de televisión,realizador"
+  },
+  {
+    "id": 255,
+    "query_name": "Tony_Goldwyn",
+    "name": "Tony Goldwyn",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Tony_Goldwyn_May_2014.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor /,director"
+  },
+  {
+    "id": 256,
+    "query_name": "Christopher_Guest",
+    "name": "Christopher Haden-Guest",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Christopher_Guest_2016.jpg",
+    "nationality": "británica,estadounidense",
+    "roles": "actor"
+  },
+  {
+    "id": 257,
+    "query_name": "Randal_Kleiser",
+    "name": "Randal Kleiser",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,productor,actor,productor de cine"
+  },
+  {
+    "id": 258,
+    "query_name": "Lasse_Hallstrom",
+    "name": "Lasse Hallström",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Lasse_Hallstr%C3%B6m.jpg",
+    "nationality": "sueca",
+    "roles": "director de cine"
+  },
+  {
+    "id": 259,
+    "query_name": "Ronny_Yu",
+    "name": "Ronny Yu",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "china",
+    "roles": "dirección cinematográfica,guion,producción"
+  },
+  {
+    "id": 260,
+    "query_name": "John_Badham",
+    "name": "John Badham",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "británica,estadounidense",
+    "roles": "director,productor"
+  },
+  {
+    "id": 261,
+    "query_name": "Penelope_Spheeris",
+    "name": "Penelope Spheeris",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Penelope_Spheeris.jpg",
+    "nationality": "estadounidense",
+    "roles": "directora,productora,guionista"
+  },
+  {
+    "id": 262,
+    "query_name": "Michael_Apted",
+    "name": "Michael Apted",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Michael_Apted_at_the_72nd_Annual_Peabody_Awards_(cropped).jpg",
+    "nationality": "británico",
+    "roles": "director de cine,productor,guionista,actor"
+  },
+  {
+    "id": 263,
+    "query_name": "Kevin_Lima",
+    "name": "Kevin Lima",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "animador,director,guionista"
+  },
+  {
+    "id": 264,
+    "query_name": "Robert_Moresco",
+    "name": "Robert Moresco",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "productor de cine,director de cine,guionista,actor de cine"
+  },
+  {
+    "id": 265,
+    "query_name": "Gary_Winick",
+    "name": "Gary Winick",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Gary_Winick_2002.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productor de cine,editor de cine"
+  },
+  {
+    "id": 266,
+    "query_name": "Forest_Whitaker",
+    "name": "Forest Whitaker",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Forest_Whitaker_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,productor,director"
+  },
+  {
+    "id": 267,
+    "query_name": "Wong_Kar-wai",
+    "name": "Wong Kar-wai",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Wong_Kar-wai_at_2008_TIFF_cropped.jpg",
+    "nationality": "",
+    "roles": "director de cine"
+  },
+  {
+    "id": 268,
+    "query_name": "Robert_Luketic",
+    "name": "Robert Luketic",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Robert_Luketic_(cropped)_at_Alamo_Drafthouse_Cinema.jpg",
+    "nationality": "australiana",
+    "roles": "director"
+  },
+  {
+    "id": 269,
+    "query_name": "Alejandro_Gonzalez Inarritu",
+    "name": "Alejandro González Iñárritu",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:AGI_HEADSHOT_PHOTO.jpg",
+    "nationality": "mexicana,española",
+    "roles": "director,productor,guionista,compositor"
+  },
+  {
+    "id": 270,
+    "query_name": "Betty_Thomas",
+    "name": "Betty Thomas",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Betty_Thomas_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "actriz,directora,productora"
+  },
+  {
+    "id": 271,
+    "query_name": "James_Gray",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 272,
+    "query_name": "D.J._Caruso",
+    "name": "D.J. Caruso",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director,productor de cine"
+  },
+  {
+    "id": 273,
+    "query_name": "Zack_Snyder",
+    "name": "Zack Snyder",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Zack_Snyder_by_Gage_Skidmore_2.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 274,
+    "query_name": "James_Mangold",
+    "name": "James Mangold",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:James_Mangold_Press_Conference_Logan_Berlinale_2017_03.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 275,
+    "query_name": "Judd_Apatow",
+    "name": "Judd Apatow",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Judd_Apatow_2012_Shankbone.JPG",
+    "nationality": "estadounidense",
+    "roles": "actor,guionista,productor de cine,director de cine,escritor,actor de televisión,actor de voz,director de televisión,actor de cine,showrunner,productor de televisión"
+  },
+  {
+    "id": 276,
+    "query_name": "Seth_Gordon",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 277,
+    "query_name": "Shekhar_Kapur",
+    "name": "Shekhar Kapur",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Shekhar_Kapur.jpg",
+    "nationality": "india",
+    "roles": "actor,director de cine,contador,bloguero,productor de cine,modelo,guionista"
+  },
+  {
+    "id": 278,
+    "query_name": "Gabriele_Muccino",
+    "name": "Gabriele Muccino",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Gabriele_Muccino.jpeg",
+    "nationality": "italiana",
+    "roles": "director de cine,guionista,productor de cine"
+  },
+  {
+    "id": 279,
+    "query_name": "Jon_Avnet",
+    "name": "Jon Avnet",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Jon_Avnet.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productor"
+  },
+  {
+    "id": 280,
+    "query_name": "Shane_Acker",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 281,
+    "query_name": "Howard_Deutch",
+    "name": "Howard Deutch",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director"
+  },
+  {
+    "id": 282,
+    "query_name": "Paul_Weitz",
+    "name": "Paul Weitz",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Paul_Weitz_at_2015_Sundance.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor,actor"
+  },
+  {
+    "id": 283,
+    "query_name": "Michael_Winterbottom",
+    "name": "Michael Winterbottom",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Michael_Winterbottom_(Berlin_Film_Festival_2009).jpg",
+    "nationality": "británica",
+    "roles": "director de cine,editor de cine,guionista,director de televisión,productor de cine"
+  },
+  {
+    "id": 284,
+    "query_name": "Spike_Jonze",
+    "name": "Spike Jonze",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Spike_Jonze_Her_Premiere_NYFF_2013_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "productor,director,guionista,actor"
+  },
+  {
+    "id": 285,
+    "query_name": "Denzel_Washington",
+    "name": "Denzel Washington",
+    "nickname": "D",
+    "pic": "https://commons.wikimedia.org/wiki/File:Denzel_Washington_(29479254650)_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director de cine"
+  },
+  {
+    "id": 286,
+    "query_name": "Brett_Ratner",
+    "name": "Brett Ratner",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Brett_Ratner_2012_Shankbone.JPG",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 287,
+    "query_name": "Charles_Martin Smith",
+    "name": "Charles Martin Smith",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:CharlesMartinSmith08TIFF.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,escritor"
+  },
+  {
+    "id": 288,
+    "query_name": "Steven_Zaillian",
+    "name": "Steven Zaillian",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "guionista,productor de cine,director de cine,editor de cine,realizador,productor ejecutivo"
+  },
+  {
+    "id": 289,
+    "query_name": "Kevin_Bray",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 290,
+    "query_name": "Kevin_Spacey",
+    "name": "Kevin Spacey",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Kevin_Spacey,_May_2013.jpg",
+    "nationality": "estadounidense",
+    "roles": "actordirectorproductorguionista"
+  },
+  {
+    "id": 291,
+    "query_name": "Andy_Tennant",
+    "name": "Andy Tennant",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Andy_Tennant_at_Dallas_International_Film_Festival_2011.jpg",
+    "nationality": "estadounidense",
+    "roles": "bailarín de ballet,guionista,director de cine,bailarín,actor,productor de cine"
+  },
+  {
+    "id": 292,
+    "query_name": "Joel_Zwick",
+    "name": "Joel Zwick",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Joel_Zwick_(1993).jpg",
+    "nationality": "estadounidense",
+    "roles": "director"
+  },
+  {
+    "id": 293,
+    "query_name": "Charles_Shyer",
+    "name": "Charles Shyer",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Charles_Shyer,_2011.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,productor de cine,escritor,productor de televisión"
+  },
+  {
+    "id": 294,
+    "query_name": "Jean-Pierre_Jeunet",
+    "name": "Jean-Pierre Jeunet",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:JP_Jeunet.jpg",
+    "nationality": "francesa",
+    "roles": "director de cine,guionista,productor de cine,editor de cine"
+  },
+  {
+    "id": 295,
+    "query_name": "Billy_Bob Thornton",
+    "name": "Billy Bob Thornton",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Billy_Bob_Thornton_2017_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director de cine,guionista,músico"
+  },
+  {
+    "id": 296,
+    "query_name": "Cameron_Crowe",
+    "name": "Cameron Crowe",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Cameron_Crowe_2005.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,guionista,columnista"
+  },
+  {
+    "id": 297,
+    "query_name": "Uwe_Boll",
+    "name": "Uwe Boll",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Uwe_Boll_Dungeon_Siege_(cropped).jpg",
+    "nationality": "alemán",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 298,
+    "query_name": "Lee_Tamahori",
+    "name": "Lee Tamahori",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "neozelandesa",
+    "roles": "director de cine"
+  },
+  {
+    "id": 299,
+    "query_name": "Tim_Hill",
+    "name": "Tim Hill",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "comediante,director,productor,guionista,artista de guion gráfico"
+  },
+  {
+    "id": 300,
+    "query_name": "Sam_Mendes",
+    "name": "Sam Mendes",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Sam_Mendes,_Charlie_and_the_Chocolate_Factory,_2013.jpg",
+    "nationality": "británica",
+    "roles": "director de cine,teatro"
+  },
+  {
+    "id": 301,
+    "query_name": "Mary_Harron",
+    "name": "Mary Harron",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Mary_Harron.jpg",
+    "nationality": "canadiense",
+    "roles": "directora de cine,escritora"
+  },
+  {
+    "id": 302,
+    "query_name": "Adam_McKay",
+    "name": "Adam McKay",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Adam_McKay_at_the_World_Premiere_of_Marvel%27s_Ant-Man_-AntMan_-AntManPremiere_-_DSC_0881_(19114542938).jpg",
+    "nationality": "estadounidense",
+    "roles": "guionista,actor,comediante,director"
+  },
+  {
+    "id": 303,
+    "query_name": "Alan_Parker",
+    "name": "Alan Parker      CBE",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Alan_Parker_(Director),_London,_2012.jpg",
+    "nationality": "británica",
+    "roles": "director,productor,guionista,escritor,actor"
+  },
+  {
+    "id": 304,
+    "query_name": "Luke_Greenfield",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 305,
+    "query_name": "Sofia_Coppola",
+    "name": "Sofia Coppola",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Sofia_Coppola_Cannes_2013.jpg",
+    "nationality": "estadounidense",
+    "roles": "directora,productora,guionista,actriz"
+  },
+  {
+    "id": 306,
+    "query_name": "Tim_Johnson",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 307,
+    "query_name": "Wayne_Wang",
+    "name": "Wayne Wang",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:WAYNEWANG1979SFphotobyNancyWong.jpg",
+    "nationality": "estadounidense",
+    "roles": "director"
+  },
+  {
+    "id": 308,
+    "query_name": "Ed_Harris",
+    "name": "Ed Harris",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Ed_Harris_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,guionista"
+  },
+  {
+    "id": 309,
+    "query_name": "Robert_Duvall",
+    "name": "Robert Duvall",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Robert_Duvall_by_David_Shankbone.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,productor"
+  },
+  {
+    "id": 310,
+    "query_name": "Charles_S. Dutton",
+    "name": "Charles S. Dutton",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:CharlesSDutton07TIFF.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,productor"
+  },
+  {
+    "id": 311,
+    "query_name": "Antoine_Fuqua",
+    "name": "Antoine Fuqua",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Antoine_Fuqua_(29682821190).jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine"
+  },
+  {
+    "id": 312,
+    "query_name": "Christian_Duguay",
+    "name": "Christian Duguay",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "canadiense",
+    "roles": "director de cine,director de fotografía,productor de cine"
+  },
+  {
+    "id": 313,
+    "query_name": "David_Bowers",
+    "name": "David Bowers",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:David_Bowers.jpg",
+    "nationality": "británica",
+    "roles": "animador,director de cine,guionista,actor de voz"
+  },
+  {
+    "id": 314,
+    "query_name": "James_L. Brooks",
+    "name": "James L. Brooks",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Jameslbrooks.jpg",
+    "nationality": "estadounidense",
+    "roles": "guionista,productor de cine,director de cine,escritor,productor de televisión"
+  },
+  {
+    "id": 315,
+    "query_name": "Joe_Carnahan",
+    "name": "Joe Carnahan",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Joe_Carnahan_(4920110734)_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,bloguero,productor de cine"
+  },
+  {
+    "id": 316,
+    "query_name": "Joan_Chen",
+    "name": "Joan Chen",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Joan_Chen_20120309.jpg",
+    "nationality": "china,estadounidense",
+    "roles": "actriz,guionista,directora de cine,actriz de televisión,productora de cine,actriz de cine"
+  },
+  {
+    "id": 317,
+    "query_name": "Joe_Wright",
+    "name": "Joe Wright",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Joe_Wright_by_Gage_Skidmore.jpg",
+    "nationality": "británica",
+    "roles": "director de cine"
+  },
+  {
+    "id": 318,
+    "query_name": "Jay_Roach",
+    "name": "Jay Roach",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Jay_Roach_2013_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "productor,director,guionista"
+  },
+  {
+    "id": 319,
+    "query_name": "Paul_Schrader",
+    "name": "Paul Schrader",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Paul_Schrader.jpg",
+    "nationality": "estadounidense",
+    "roles": "guionista,director,escritor"
+  },
+  {
+    "id": 320,
+    "query_name": "Frank_Coraci",
+    "name": "Frank Coraci",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Frank_Coraci_and_Kate_Beckinsale_cropped.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista"
+  },
+  {
+    "id": 321,
+    "query_name": "Mathieu_Kassovitz",
+    "name": "Mathieu Kassovitz",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Mathieu_Kassovitz_Cannes_2017.jpg",
+    "nationality": "francesa",
+    "roles": "actor,productor de cine,director de cine,guionista,actor de género,editor de cine,actor de cine,actor de televisión"
+  },
+  {
+    "id": 322,
+    "query_name": "Pedro_Almodovar",
+    "name": "Pedro Almodóvar",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Pedro_Almod%C3%B3var_at_Premios_Goya_2017_1_(cropped).jpg",
+    "nationality": "española",
+    "roles": "director de cine,actor,productor de cine,guionista,cantante"
+  },
+  {
+    "id": 323,
+    "query_name": "Werner_Herzog",
+    "name": "Werner Herzog",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Werner_Herzog_Berlin_2015.jpg",
+    "nationality": "alemana,sueca",
+    "roles": "director,documentalista,guionista,productor,actor"
+  },
+  {
+    "id": 324,
+    "query_name": "James_Toback",
+    "name": "James Toback",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:2009-0428-MSPIFF-JamesToback-portrait.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,actor,productor de cine"
+  },
+  {
+    "id": 325,
+    "query_name": "Oxide_Pang Chun",
+    "name": "Oxide Pang Chun",
+    "nickname": "(Chino tradicional: 彭順)(mandarín: Péng Shùn)(cantonés: Paang4 Seon6)",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "china",
+    "roles": "director de cine,guionista"
+  },
+  {
+    "id": 326,
+    "query_name": "Sally_Field",
+    "name": "Sally Field",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Sally_Field_1971.JPG",
+    "nationality": "estadounidense",
+    "roles": "actriz,directora"
+  },
+  {
+    "id": 327,
+    "query_name": "Mike_Judge",
+    "name": "Mike Judge",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Mike_Judge_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,animador,guionista,productor,director,músico"
+  },
+  {
+    "id": 328,
+    "query_name": "Gurinder_Chadha",
+    "name": "Gurinder Chadha",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Gurinder_Chadha,_at_NAATA.jpg",
+    "nationality": "británica",
+    "roles": "directora de cine,guionista,productora de cine"
+  },
+  {
+    "id": 329,
+    "query_name": "Todd_Field",
+    "name": "Todd Field",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Todd_Field,_Deauville_Film_Festival_5_September_2006.JPG",
+    "nationality": "estadounidense",
+    "roles": "guionista,director de cine,productor de cine,compositor de bandas sonoras,actor de cine"
+  },
+  {
+    "id": 330,
+    "query_name": "Steve_Hickner",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 331,
+    "query_name": "M._Night Shyamalan",
+    "name": "M. Night Shyamalan",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:M._Night_Shyamalan_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense,india",
+    "roles": "director de cine,productor de cine,escritor,actor,guionista,actor de cine"
+  },
+  {
+    "id": 332,
+    "query_name": "Bille_Woodruff",
+    "name": "Bille Woodruff",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,director de fotografía,productor de cine,guionista,productor discográfico"
+  },
+  {
+    "id": 333,
+    "query_name": "Justin_Lin",
+    "name": "Justin Lin",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Star_Trek_Beyond_Japan_Premiere_Red_Carpet-_Justin_Lin_(32119565936).jpg",
+    "nationality": "taiwanés,estadounidense",
+    "roles": "director de cine"
+  },
+  {
+    "id": 334,
+    "query_name": "Shawn_Levy",
+    "name": "Shawn Levy",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Shawn_Levy_in_Moscow,_October_2011.jpg",
+    "nationality": "canadiense",
+    "roles": "guionista,productor de cine,actor de televisión,actor de cine,director de cine,actor,director de televisión,productor ejecutivo"
+  },
+  {
+    "id": 335,
+    "query_name": "Raja_Gosnell",
+    "name": "Raja Gosnell",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director,editor"
+  },
+  {
+    "id": 336,
+    "query_name": "Stephen_Daldry",
+    "name": "Stephen Daldry",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Stephen_Daldry_(Berlin_Film_Festival_2009).jpg",
+    "nationality": "británica",
+    "roles": "director de cine,productor de cine,director de teatro"
+  },
+  {
+    "id": 337,
+    "query_name": "Stephen_Norrington",
+    "name": "Stephen Norrington",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "británico",
+    "roles": "director de cine,productor,artista visual"
+  },
+  {
+    "id": 338,
+    "query_name": "Guillermo_Del Toro",
+    "name": "Guillermo del Toro",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Guillermo_del_Toro_in_2017.jpg",
+    "nationality": "mexicana",
+    "roles": "director,guionista,productor,novelista"
+  },
+  {
+    "id": 339,
+    "query_name": "David_Goyer",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 340,
+    "query_name": "Fernando_Meirelles",
+    "name": "Fernando Meirelles",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Fernando_Meirelles_2012_(cropped).JPG",
+    "nationality": "brasileña",
+    "roles": "director,guionista"
+  },
+  {
+    "id": 341,
+    "query_name": "Ted_Demme",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 342,
+    "query_name": "Emilio_Estevez",
+    "name": "Emilio Estévez",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Emilio_Estevez_Venice_2006_crop.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,actor de voz,director,productor,guionista"
+  },
+  {
+    "id": 343,
+    "query_name": "Paul_Thomas Anderson",
+    "name": "Paul Thomas Anderson",
+    "nickname": "P.T.A.",
+    "pic": "https://commons.wikimedia.org/wiki/File:Paul_Thomas_Anderson_2007_crop.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor"
+  },
+  {
+    "id": 344,
+    "query_name": "Larry_Charles",
+    "name": "Larry Charles",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Larry_Charles_TIFF_2008_-_Religulous.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,productor de cine"
+  },
+  {
+    "id": 345,
+    "query_name": "Paul_Greengrass",
+    "name": "Paul Greengrass",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Bourne_3_Premiere_Greengrass.jpg",
+    "nationality": "británica",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 346,
+    "query_name": "Kimberly_Peirce",
+    "name": "Kimberly Peirce",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Kimberly_Peirce_on_The_MacGuffin.jpg",
+    "nationality": "estadounidense",
+    "roles": "directora de cine,guionista,productora de cine"
+  },
+  {
+    "id": 347,
+    "query_name": "Alan_Rudolph",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Alan_Rudolph.jpg",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 348,
+    "query_name": "Jonathan_Mostow",
+    "name": "Jonathan Mostow",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 349,
+    "query_name": "Peyton_Reed",
+    "name": "Peyton Reed",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Peyton_Reed_at_the_World_Premiere_of_Marvel%27s_Ant-Man_-AntMan_-AntManPremiere_-_DSC_0392_(19115946619).jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,director de televisión"
+  },
+  {
+    "id": 350,
+    "query_name": "Arthur_Hiller",
+    "name": "Arthur Hiller",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Arthur_Hiller.jpg",
+    "nationality": "canadiense",
+    "roles": "director de cine,productor de cine,actor"
+  },
+  {
+    "id": 351,
+    "query_name": "Jane_Campion",
+    "name": "Jane Campion",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Jane_Campion_Cannes_2014_2.jpg",
+    "nationality": "neozelandesa",
+    "roles": "directora,productora,guionista"
+  },
+  {
+    "id": 352,
+    "query_name": "Vincent_Gallo",
+    "name": "Vincent Gallo",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Vincent_Gallo-1-2.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,productor,compositor,guionista,cantante"
+  },
+  {
+    "id": 353,
+    "query_name": "Tim_Story",
+    "name": "Tim Story",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine"
+  },
+  {
+    "id": 354,
+    "query_name": "Terry_Zwigoff",
+    "name": "Terry Zwigoff",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Terry-zwigoff.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor"
+  },
+  {
+    "id": 355,
+    "query_name": "Les_Mayfield",
+    "name": "Les Mayfield",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productor de cine"
+  },
+  {
+    "id": 356,
+    "query_name": "Nora_Ephron",
+    "name": "Nora Ephron",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Nora_Ephron.jpg",
+    "nationality": "estadounidense",
+    "roles": "directora de cineproductoraguionista"
+  },
+  {
+    "id": 357,
+    "query_name": "Eli_Roth",
+    "name": "Eli Roth",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:EliRothIBAug09.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,actor,productor,guionista,comediante"
+  },
+  {
+    "id": 358,
+    "query_name": "Bennett_Miller",
+    "name": "Bennett Miller",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Bennett_Altman_Miller.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cineproductor de cinedirector de fotografía"
+  },
+  {
+    "id": 359,
+    "query_name": "Mark_Dindal",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 360,
+    "query_name": "Michael_Lembeck",
+    "name": "Michael Lembeck",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "actor/,director"
+  },
+  {
+    "id": 361,
+    "query_name": "David_R. Ellis",
+    "name": "David Richard Ellis",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Africa.svg",
+    "nationality": "estadounidense",
+    "roles": "director de cine"
+  },
+  {
+    "id": 362,
+    "query_name": "Gil_Kenan",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 363,
+    "query_name": "Joseph_McGinty Nichol",
+    "name": "Joseph McGinty Nichol",
+    "nickname": "McG",
+    "pic": "https://commons.wikimedia.org/wiki/File:McG_at_WonderCon_2009_1.JPG",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 364,
+    "query_name": "Rob_Marshall",
+    "name": "Rob Marshall",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:RobMarshallApr2011.jpg",
+    "nationality": "estadounidense",
+    "roles": "coreógrafo,director,productor"
+  },
+  {
+    "id": 365,
+    "query_name": "Nick_Park",
+    "name": "Nick Park",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Wallace,_Gromit,_and_creator_Nick_Park.jpg",
+    "nationality": "británica",
+    "roles": "director"
+  },
+  {
+    "id": 366,
+    "query_name": "Adam_Shankman",
+    "name": "Adam Shankman",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:AdamShankman.png",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productor de cine,coreógrafo,actor de cine,director de televisión,actor,bailarín"
+  },
+  {
+    "id": 367,
+    "query_name": "Alfonso_Cuaron",
+    "name": "Alfonso Cuarón",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Alfonso_Cuar%C3%B3n,_President_jury_Venezia_72_(25805089406)_(cropped).jpg",
+    "nationality": "mexicano",
+    "roles": "director,guionista,productor"
+  },
+  {
+    "id": 368,
+    "query_name": "Chris_Weitz",
+    "name": "Chris Weitz",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Chris_Weitz.jpg",
+    "nationality": "estadounidense",
+    "roles": "director;,productor;,guionista;,actor"
+  },
+  {
+    "id": 369,
+    "query_name": "Stephen_Chow",
+    "name": "Stephen Chow",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:ChowKL1_(cropped).JPG",
+    "nationality": "china",
+    "roles": "director de cine,actor,productor de cine,guionista,comediante,actor de cine,cantante,actor de televisión"
+  },
+  {
+    "id": 370,
+    "query_name": "Nancy_Meyers",
+    "name": "Nancy Meyers",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Nancy_Meyers_headshot.jpg",
+    "nationality": "estadounidense",
+    "roles": "directora,productora,guionista"
+  },
+  {
+    "id": 371,
+    "query_name": "Francis_Lawrence",
+    "name": "Francis Lawrence",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Francis_Lawrence_by_Gage_Skidmore_2.jpg",
+    "nationality": "estadounidense-austríaco",
+    "roles": "director,productor"
+  },
+  {
+    "id": 372,
+    "query_name": "Rod_Lurie",
+    "name": "Rod Lurie",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Rod_Lurie_crop.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista"
+  },
+  {
+    "id": 373,
+    "query_name": "George_Clooney",
+    "name": "George Clooney",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:George_Clooney_2016.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,productor,guionista"
+  },
+  {
+    "id": 374,
+    "query_name": "Joey_Lauren Adams",
+    "name": "Joey Lauren Adams",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Joey_Lauren_Adams_February_2015.jpg",
+    "nationality": "estadounidense",
+    "roles": "actriz,guionista,directora"
+  },
+  {
+    "id": 375,
+    "query_name": "Simon_West",
+    "name": "Simon West",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "británica",
+    "roles": "director de cine,actor,guionista,productor de cine,director de televisión"
+  },
+  {
+    "id": 376,
+    "query_name": "James_Foley",
+    "name": "James Foley",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,director de televisión"
+  },
+  {
+    "id": 377,
+    "query_name": "Peter_Billingsley",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 378,
+    "query_name": "Antonio_Banderas",
+    "name": "Antonio Banderas",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Antonio_Banderas_2014.jpg",
+    "nationality": "española",
+    "roles": "cantante,productor de cine,actor de cine,director de cine,modelo"
+  },
+  {
+    "id": 379,
+    "query_name": "Andrzej_Bartkowiak",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 380,
+    "query_name": "Yimou_Zhang",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 381,
+    "query_name": "Paul_Haggis",
+    "name": "Paul Haggis",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Paul_Haggis_by_David_Shankbone_cropped.jpg",
+    "nationality": "canadiense",
+    "roles": "guionista,productor de cine,director de cine"
+  },
+  {
+    "id": 382,
+    "query_name": "Roger_Kumble",
+    "name": "Roger Kumble",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,dramaturgo,director de teatro,director de televisión"
+  },
+  {
+    "id": 383,
+    "query_name": "Jonathan_Frakes",
+    "name": "Jonathan Frakes",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Jonathan_Frakes_in_Hawaii.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director"
+  },
+  {
+    "id": 384,
+    "query_name": "Katia_Lund",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 385,
+    "query_name": "Matt_Dillon",
+    "name": "Matt Dillon",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Matt_Dillon_2010.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,guionista"
+  },
+  {
+    "id": 386,
+    "query_name": "Phil_Lord",
+    "name": "Phil Lord",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Phil_Lord_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 387,
+    "query_name": "Mark_Duplass",
+    "name": "Mark Duplass",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:MarkDuplassOct2011.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,productor,escritor,músico"
+  },
+  {
+    "id": 388,
+    "query_name": "Steve_Carr",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 389,
+    "query_name": "Damien_Wayans",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 390,
+    "query_name": "Mark_Steven Johnson",
+    "name": "Mark Steven Johnson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director,guionista"
+  },
+  {
+    "id": 391,
+    "query_name": "Alex_Proyas",
+    "name": "Alex Proyas",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Alex_Proyas_by_Sachyn_Mital.jpg",
+    "nationality": "australiano",
+    "roles": "director de cine,escritor,productor"
+  },
+  {
+    "id": 392,
+    "query_name": "Richard_Kelly",
+    "name": "Richard Kelly",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Richard_Kelly_1.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,compositor,productor de cine"
+  },
+  {
+    "id": 393,
+    "query_name": "Jason_Friedberg",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 394,
+    "query_name": "Michael_Spierig",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 395,
+    "query_name": "John_Schultz",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 396,
+    "query_name": "Michel_Gondry",
+    "name": "Michel Gondry",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Michel-Gondry-Be-Kind.JPG",
+    "nationality": "francesa",
+    "roles": "director,guionista"
+  },
+  {
+    "id": 397,
+    "query_name": "Angela_Robinson",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 398,
+    "query_name": "Alan_J. Pakula",
+    "name": "Alan J. Pakula",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Alan_J._Pakula.jpg",
+    "nationality": "estadounidense",
+    "roles": "guionista,productor de cine,director de cine,escritor"
+  },
+  {
+    "id": 399,
+    "query_name": "Catherine_Hardwicke",
+    "name": "Catherine Hardwicke",
+    "nickname": "Katheryn Hardwick",
+    "pic": "https://commons.wikimedia.org/wiki/File:Catherine_Hardwicke_%26_Madison.JPG",
+    "nationality": "estadounidense",
+    "roles": "directora de cine,guionista,arquitecta,diseñadora de producción,productora de cine"
+  },
+  {
+    "id": 400,
+    "query_name": "Len_Wiseman",
+    "name": "Len Wiseman",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:LenWisemanJune07.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,productor"
+  },
+  {
+    "id": 401,
+    "query_name": "Pierre_Morel",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 402,
+    "query_name": "Neill_Blomkamp",
+    "name": "Neill Blomkamp",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:NeillBlomkampCCJuly09.jpg",
+    "nationality": "canadiense,sudafricana",
+    "roles": "director de cine,guionista,animador"
+  },
+  {
+    "id": 403,
+    "query_name": "Tyler_Perry",
+    "name": "Tyler Perry",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:82nd_Academy_Awards,_Tyler_Perry_-_army_mil-66455-2010-03-09-180359_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,comediante,cineasta,escritor,compositor"
+  },
+  {
+    "id": 404,
+    "query_name": "Corey_Yuen",
+    "name": "Corey Yuen",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "china",
+    "roles": "director de cine,actor,coreógrafo,guionista"
+  },
+  {
+    "id": 405,
+    "query_name": "Mimi_Leder",
+    "name": "Mimi Leder",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Mimi_Leder_at_the_75th_Annual_Peabody_Awards_for_The_Leftovers.jpg",
+    "nationality": "estadounidense",
+    "roles": "directora de cine"
+  },
+  {
+    "id": 406,
+    "query_name": "Bill_Condon",
+    "name": "Bill Condon",
+    "nickname": "Bill",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor,actor"
+  },
+  {
+    "id": 407,
+    "query_name": "Jay_Chandrasekhar",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 408,
+    "query_name": "Danny_De Vito",
+    "name": "Danny DeVito",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Danny_DeVito_by_Gage_Skidmore_3.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor"
+  },
+  {
+    "id": 409,
+    "query_name": "Todd_Haynes",
+    "name": "Todd Haynes",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Todd_Haynes_at_the_2009_Tribeca_Film_Festival.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director de cine,guionista,productor de cine,director de televisión"
+  },
+  {
+    "id": 410,
+    "query_name": "Alexander_Payne",
+    "name": "Alexander Payne",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Alexander_payne.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor"
+  },
+  {
+    "id": 411,
+    "query_name": "Jon_Favreau",
+    "name": "Jon Favreau",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Jon_Favreau_Deauville_2014.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,guionista,director,productor de cine. monologuista,actor de voz"
+  },
+  {
+    "id": 412,
+    "query_name": "Kasi_Lemmons",
+    "name": "Kasi Lemmons",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "actriz,direcrtora de cine"
+  },
+  {
+    "id": 413,
+    "query_name": "Scott_Derrickson",
+    "name": "Scott Derrickson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Scott_Derrickson_by_Gage_Skidmore_2.jpg",
+    "nationality": "estadounidense",
+    "roles": "guionista,productor de cine,director de cine,escritor"
+  },
+  {
+    "id": 414,
+    "query_name": "Tom_Dey",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 415,
+    "query_name": "Griffin_Dunne",
+    "name": "Griffin Dunne",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Griffin_Dunne_by_David_Shankbone.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,productor,director de cine"
+  },
+  {
+    "id": 416,
+    "query_name": "Alex_Kendrick",
+    "name": "Alex Kendrick",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Alex_Kendrick_2019_(Me-riHIbnqI).jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productor de cine,guionista,actor,camarógrafo,compositor"
+  },
+  {
+    "id": 417,
+    "query_name": "James_Wong",
+    "name": "James Wong",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Jim_Wong_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense",
+    "roles": "guionista,productor de cine,director de cine,productor de televisión,director de televisión"
+  },
+  {
+    "id": 418,
+    "query_name": "William_Malone",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 419,
+    "query_name": "Sam_Fell",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 420,
+    "query_name": "Tony_Bill",
+    "name": "Tony Bill",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Frances_Lee_McCain_Tony_Bill_1977.JPG",
+    "nationality": "estadounidense",
+    "roles": "actor,director de cine,productor de cine,actor de televisión"
+  },
+  {
+    "id": 421,
+    "query_name": "Andrew_Stanton",
+    "name": "Andrew Stanton",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Andrew_Stanton.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,animaciónguionistaproductor"
+  },
+  {
+    "id": 422,
+    "query_name": "Richard_LaGravenese",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 423,
+    "query_name": "Mark_Waters",
+    "name": "Mark Waters",
+    "nickname": "Mark S. Waters",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 424,
+    "query_name": "Joss_Whedon",
+    "name": "Joss Whedon",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Joss_Whedon_(27970806483).jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor,compositor,actor"
+  },
+  {
+    "id": 425,
+    "query_name": "Peter_Berg",
+    "name": "Peter Berg",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Peter_Berg_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,productor,guionista"
+  },
+  {
+    "id": 426,
+    "query_name": "John_Musker",
+    "name": "John Musker",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:John_Musker_01.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,animador de personajes,productor de cine"
+  },
+  {
+    "id": 427,
+    "query_name": "Peter_Cattaneo",
+    "name": "Peter Cattaneo",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "británico",
+    "roles": "director de cine"
+  },
+  {
+    "id": 428,
+    "query_name": "Andrew_Niccol",
+    "name": "Andrew Niccol",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Andrew_Niccol,_In_Time_Panel_2011.jpg",
+    "nationality": "neozelandesa",
+    "roles": "guionista,productor de cine,director de cine"
+  },
+  {
+    "id": 429,
+    "query_name": "Ben_Affleck",
+    "name": "Ben Affleck",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Ben_Affleck_by_Gage_Skidmore_3.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,productor,guionista"
+  },
+  {
+    "id": 430,
+    "query_name": "Phil_Joanou",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 431,
+    "query_name": "David_Koepp",
+    "name": "David Koepp",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "guionista,director de cine,productor de cine,escritor,actor de cine"
+  },
+  {
+    "id": 432,
+    "query_name": "Vondie_Curtis-Hall",
+    "name": "Vondie Curtis-Hall",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "guionista,actor de televisión,actor de cine,director de cine,escritor,actor de teatro"
+  },
+  {
+    "id": 433,
+    "query_name": "Andy_Fickman",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 434,
+    "query_name": "Peter_Webber",
+    "name": "Peter Webber",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "británica",
+    "roles": "director de cine,guionista,editor de cine,productor de cine,director de televisión"
+  },
+  {
+    "id": 435,
+    "query_name": "Zak_Penn",
+    "name": "Zak Penn",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Zak_Penn_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense",
+    "roles": "guionista,director de cine,productor de cine,actor de cine"
+  },
+  {
+    "id": 436,
+    "query_name": "Zach_Braff",
+    "name": "Zach Braff",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Zach_Braff_2011_Shankbone.JPG",
+    "nationality": "estadounidense",
+    "roles": "actor,director,productor,guionista,actor de voz"
+  },
+  {
+    "id": 437,
+    "query_name": "Jim_Sheridan",
+    "name": "Jim Sheridan",
+    "nickname": "Shay",
+    "pic": "https://commons.wikimedia.org/wiki/File:Jim_Sheridan.jpg",
+    "nationality": "irlandesa",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 438,
+    "query_name": "Jim_Jarmusch",
+    "name": "Jim Jarmusch",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Jim_Jarmusch_Cannes_2013.JPG",
+    "nationality": "estadounidense",
+    "roles": "cineasta"
+  },
+  {
+    "id": 439,
+    "query_name": "Rob_Zombie",
+    "name": "Rob Zombie",
+    "nickname": "Rob Zombie, Robert Wolfgang Zombie, Rob Dirt Straker",
+    "pic": "https://commons.wikimedia.org/wiki/File:Robzombiegfdl.PNG",
+    "nationality": "estadounidense",
+    "roles": "compositor,cantante,guionista,director de cine"
+  },
+  {
+    "id": 440,
+    "query_name": "Vin_Diesel",
+    "name": "Vin Diesel",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Vin_Diesel_XXX_Return_of_Xander_Cage_premiere.png",
+    "nationality": "estadounidense",
+    "roles": "actor,productor,director"
+  },
+  {
+    "id": 441,
+    "query_name": "Fred_Wolf",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 442,
+    "query_name": "Chris_Rock",
+    "name": "Chris Rock",
+    "nickname": "Chrissy",
+    "pic": "https://commons.wikimedia.org/wiki/File:Chris_Rock_WE_2012_Shankbone.JPG",
+    "nationality": "estadounidense",
+    "roles": "actor,actor de voz,comediante en vivo,guionista,productor,director"
+  },
+  {
+    "id": 443,
+    "query_name": "David_Mamet",
+    "name": "David Mamet",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:David_Mamet_by_David_Shankbone.JPG",
+    "nationality": "estadounidense",
+    "roles": "escritor,director de cine"
+  },
+  {
+    "id": 444,
+    "query_name": "Carl_Franklin",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 445,
+    "query_name": "Alexandre_Aja",
+    "name": "Alexandre Aja",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Alexandre_Aja_(17493159043)_(cropped).jpg",
+    "nationality": "francesa",
+    "roles": "director,guionista,productor"
+  },
+  {
+    "id": 446,
+    "query_name": "Todd_Phillips",
+    "name": "Todd Phillips",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Todd_Phillips_(29486703114).jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista,actor"
+  },
+  {
+    "id": 447,
+    "query_name": "David_Yates",
+    "name": "David Yates",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:David_Yates_by_Gage_Skidmore.jpg",
+    "nationality": "británica",
+    "roles": "director,guionista,productor"
+  },
+  {
+    "id": 448,
+    "query_name": "Brian_Robbins",
+    "name": "Brian Robbins",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Brian_Robbins_1988_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,productor,escritor,director"
+  },
+  {
+    "id": 449,
+    "query_name": "Edgar_Wright",
+    "name": "Edgar Wright",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Edgar_Wright_2013.jpg",
+    "nationality": "británico",
+    "roles": "director de cine,guionista,actor,comediante"
+  },
+  {
+    "id": 450,
+    "query_name": "Louis_Leterrier",
+    "name": "Louis Leterrier",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Louis-Leterrier-Incroyable-Hulk.JPG",
+    "nationality": "francesa",
+    "roles": "actor,director de cine,productor de cine,guionista"
+  },
+  {
+    "id": 451,
+    "query_name": "Kathryn_Bigelow",
+    "name": "Kathryn Bigelow",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:82nd_Academy_Awards,_Kathryn_Bigelow_-_army_mil-66453-2010-03-09-180354.jpg",
+    "nationality": "estadounidense",
+    "roles": "directora,guionista,productora"
+  },
+  {
+    "id": 452,
+    "query_name": "Carlos_Saldanha",
+    "name": "Carlos Saldanha",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Carlos_Saldanha_2017.jpg",
+    "nationality": "brasileño",
+    "roles": "director,productor  animador,actor de voz"
+  },
+  {
+    "id": 453,
+    "query_name": "Chris_Wedge",
+    "name": "Chris Wedge",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Chris_Wedge_2014.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor de voz  director de cine,animación"
+  },
+  {
+    "id": 454,
+    "query_name": "Karey_Kirkpatrick",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 455,
+    "query_name": "Iain_Softley",
+    "name": "Iain Softley",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "británica",
+    "roles": "director de cine,guionista,director de televisión,director de teatro,productor de cine"
+  },
+  {
+    "id": 456,
+    "query_name": "Ricky_Gervais",
+    "name": "Ricky Gervais",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Ricky_Gervais_2010.jpg",
+    "nationality": "británico",
+    "roles": "actor,actor de voz,director,escritor,guionista,comediante,músico"
+  },
+  {
+    "id": 457,
+    "query_name": "Brad_Bird",
+    "name": "Brad Bird",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:BRAD_BIRD_2012.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,director de animación,guionista"
+  },
+  {
+    "id": 458,
+    "query_name": "Marc_Forster",
+    "name": "Marc Forster",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:MarcForsterUpdated2014.jpg",
+    "nationality": "alemán,suizo",
+    "roles": "director,guionista,productor,activista"
+  },
+  {
+    "id": 459,
+    "query_name": "Dennie_Gordon",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 460,
+    "query_name": "Nick_Cassavetes",
+    "name": "Nick Cassavetes",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:NickCassavetesJune09.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,actor,guionista,escritor,actor de televisión,actor de cine,productor de cine"
+  },
+  {
+    "id": 461,
+    "query_name": "Jason_Reitman",
+    "name": "Jason Reitman",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Men_Women_and_Children_44_(15087577107).jpg",
+    "nationality": "canadiense,estadounidense",
+    "roles": "cineasta,actor"
+  },
+  {
+    "id": 462,
+    "query_name": "Jason_Alexander",
+    "name": "Jason Alexander",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Jason_Alexander_-_2009_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "actor de televisión,actor de cine,cantante,director de cine,productor de cine,actor de teatro,mago,actor de voz,poker player"
+  },
+  {
+    "id": 463,
+    "query_name": "Matthew_Vaughn",
+    "name": "Matthew Vaughn",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Matthew_Vaughn_(48017198166)_CROPPED.jpg",
+    "nationality": "británica",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 464,
+    "query_name": "Chris_Nahon",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 465,
+    "query_name": "Jeffrey_W. Byrd",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 466,
+    "query_name": "Jay_Russell",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 467,
+    "query_name": "Kevin_MacDonald",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 468,
+    "query_name": "Sylvain_White",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 469,
+    "query_name": "Andy_Garcia",
+    "name": "Andy García",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Andy_Garcia_portrait_2009_City_Island.jpg",
+    "nationality": "cubana,estadounidense",
+    "roles": "actor,director"
+  },
+  {
+    "id": 470,
+    "query_name": "Gina_Prince-Bythewood",
+    "name": "Gina Prince-Bythewood",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Gina_Prince-Bythewood_by_Gage_Skidmore_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "directora de cine,guionista"
+  },
+  {
+    "id": 471,
+    "query_name": "Guy_Ritchie",
+    "name": "Guy Ritchie",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:GuyRitchiebyKathyHutchins.jpg",
+    "nationality": "británica",
+    "roles": "director de cine,productor de cine,guionista,emprendedor,yudoca"
+  },
+  {
+    "id": 472,
+    "query_name": "Steve_Buscemi",
+    "name": "Steve Buscemi",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Steve_Buscemi_(41465)_crop.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,productor"
+  },
+  {
+    "id": 473,
+    "query_name": "Fred_Schepisi",
+    "name": "Fred Schepisi",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Fred_Schepisi.jpg",
+    "nationality": "australiana",
+    "roles": "director de cine,guionista,productor de cine"
+  },
+  {
+    "id": 474,
+    "query_name": "Ken_Kwapis",
+    "name": "Ken Kwapis",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director,guionista"
+  },
+  {
+    "id": 475,
+    "query_name": "Tim_Blake Nelson",
+    "name": "Tim Blake Nelson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Tim_Blake_Nelson_2016.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director,guionista"
+  },
+  {
+    "id": 476,
+    "query_name": "Andrew_Adamson",
+    "name": "Andrew Adamson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Andrew_Adamson_(cropped).jpg",
+    "nationality": "neozelandesa",
+    "roles": "director de cine,guionista,director de animación,productor ejecutivo"
+  },
+  {
+    "id": 477,
+    "query_name": "Eric_Darnell",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 478,
+    "query_name": "Jim_Abrahams",
+    "name": "Jim Abrahams",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "guionista,director de cine,productor de cine,escritor,actor"
+  },
+  {
+    "id": 479,
+    "query_name": "Tony_Gilroy",
+    "name": "Tony Gilroy",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Tony_Gilroy_Deauville_2012.jpg",
+    "nationality": "estadounidense",
+    "roles": "guionista,director de cine,productor de cine"
+  },
+  {
+    "id": 480,
+    "query_name": "Paul_Weiland",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 481,
+    "query_name": "Grant_Heslov",
+    "name": "Grant Heslov",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Grant_Heslov_TIFF09_portrait.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,productor,guionista,director"
+  },
+  {
+    "id": 482,
+    "query_name": "J.J._Abrams",
+    "name": "J. J. Abrams",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:J._J._Abrams.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista,actor,compositor."
+  },
+  {
+    "id": 483,
+    "query_name": "John_Madden",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 484,
+    "query_name": "Lars_Von Trier",
+    "name": "Lars von Trier",
+    "nickname": "Eric Nietzsche, Lars Trier",
+    "pic": "https://commons.wikimedia.org/wiki/File:LarsVonTrier.jpg",
+    "nationality": "danesa",
+    "roles": "director de cine,guionista,productor de cine,director de fotografía"
+  },
+  {
+    "id": 485,
+    "query_name": "Hayao_Miyazaki",
+    "name": "Hayao Miyazaki",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Hayao_Miyazaki.jpg",
+    "nationality": "japonesa",
+    "roles": "director,productor,guionista,diseñador gráfico,animador,mangaka."
+  },
+  {
+    "id": 486,
+    "query_name": "David_Silverman",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 487,
+    "query_name": "Sammo_Hung Kam-Bo",
+    "name": "Sammo Hung",
+    "nickname": "Hung Kam Bou, Hóng Jīn Bǎo",
+    "pic": "https://commons.wikimedia.org/wiki/File:SammoHung.jpg",
+    "nationality": "china",
+    "roles": "productor de cine,director de cine,guionista,actor de cine,especialista de cine"
+  },
+  {
+    "id": 488,
+    "query_name": "Gore_Verbinski",
+    "name": "Gore Verbinski",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Gore_Verbinski_1.JPG",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,músico,productor de cine"
+  },
+  {
+    "id": 489,
+    "query_name": "Albert_Brooks",
+    "name": "Albert Brooks",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Albert_Brooks_at_a_Q%26A.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director de cine,guionista,escritor,actor de cine,actor de voz,actor de televisión"
+  },
+  {
+    "id": 490,
+    "query_name": "Michael_Radford",
+    "name": "Michael Radford",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:RadfordComp1.jpg",
+    "nationality": "británica",
+    "roles": "director,guionista"
+  },
+  {
+    "id": 491,
+    "query_name": "Rob_Letterman",
+    "name": "Rob Letterman",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Rob_Letterman,_SDCC_2014-2_(cropped).jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista"
+  },
+  {
+    "id": 492,
+    "query_name": "P.J._Hogan",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 493,
+    "query_name": "Jared_Hess",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 494,
+    "query_name": "Bill_Duke",
+    "name": "Bill Duke",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Bill_Duke_(47003170452).jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director"
+  },
+  {
+    "id": 495,
+    "query_name": "James_McTeigue",
+    "name": "James McTeigue",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "australiana",
+    "roles": "director de cine"
+  },
+  {
+    "id": 496,
+    "query_name": "Peter_Sollett",
+    "name": "Peter Sollett",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Nick_and_Norah%27s_Infinite_Playlist.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine"
+  },
+  {
+    "id": 497,
+    "query_name": "Sean_Penn",
+    "name": "Sean Penn",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Seanpenn1.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,escritor,director,guionista,productor,activista,político"
+  },
+  {
+    "id": 498,
+    "query_name": "Terrence_Malick",
+    "name": "Terrence Malick",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Terrence_Malick.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 499,
+    "query_name": "Timur_Bekmambetov",
+    "name": "Timur Bekmambétov",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Bekmambetov_2009.jpg",
+    "nationality": "kazaja,rusa,soviética",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 500,
+    "query_name": "Michael_O. Sajbel",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 501,
+    "query_name": "Trey_Parker",
+    "name": "Trey Parker",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Trey_Parker_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor,guionista,actor,actor de voz,cantante,músico,animador"
+  },
+  {
+    "id": 502,
+    "query_name": "David_Twohy",
+    "name": "David Twohy",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:David_Twohy_(9349750854).jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista"
+  },
+  {
+    "id": 503,
+    "query_name": "Oren_Peli",
+    "name": "Oren Peli",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine"
+  },
+  {
+    "id": 504,
+    "query_name": "David_Gordon Green",
+    "name": "David Gordon Green",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Manglehorn_08_(15085929460).jpg",
+    "nationality": "estadounidense",
+    "roles": "director,guionista,productor de cine,productor de televisión"
+  },
+  {
+    "id": 505,
+    "query_name": "Roberto_Benigni",
+    "name": "Roberto Benigni",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Roberto_Benigni-5274.jpg",
+    "nationality": "italiano",
+    "roles": "actor,humorista,guionista,director"
+  },
+  {
+    "id": 506,
+    "query_name": "David_Frankel",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 507,
+    "query_name": "Lee_Daniels",
+    "name": "Lee Daniels",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Lee_Daniels_Deauville_2013.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,productor de cine"
+  },
+  {
+    "id": 508,
+    "query_name": "Martha_Coolidge",
+    "name": "Martha Coolidge",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productora de cine,guionista,directora de televisión"
+  },
+  {
+    "id": 509,
+    "query_name": "Anne_Fletcher",
+    "name": "Anne Fletcher",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:AnneFletcherMay09.jpg",
+    "nationality": "estadounidense",
+    "roles": "directora de cine,actriz,coreógrafa,productora de cine,bailarina"
+  },
+  {
+    "id": 510,
+    "query_name": "John_Erick Dowdle",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 511,
+    "query_name": "Sylvester_Stallone",
+    "name": "Sylvester Stallone",
+    "nickname": "Sly",
+    "pic": "https://commons.wikimedia.org/wiki/File:Sylvester_Stallone_2015.JPG",
+    "nationality": "estadounidense",
+    "roles": "actor,director,guionista,productor de cine"
+  },
+  {
+    "id": 512,
+    "query_name": "Mike_Binder",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 513,
+    "query_name": "John_Turturro",
+    "name": "John Turturro",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:John_Turturro_Cannes_2015.jpg",
+    "nationality": "estadounidense,italiano",
+    "roles": "actor,director,productor,guionista"
+  },
+  {
+    "id": 514,
+    "query_name": "Gavin_Hood",
+    "name": "Gavin Hood",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Gavin_Hood_2015.jpg",
+    "nationality": "sudafricana",
+    "roles": "actor,director de cine,guionista,actor de cine"
+  },
+  {
+    "id": 515,
+    "query_name": "Malcolm_D. Lee",
+    "name": "Malcolm D. Lee",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,actor,productor de cine"
+  },
+  {
+    "id": 516,
+    "query_name": "Boaz_Yakin",
+    "name": "Boaz Yakin",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "guionista,productor de cine,director de cine"
+  },
+  {
+    "id": 517,
+    "query_name": "Darren_Lynn Bousman",
+    "name": "Darren Lynn Bousman",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Bousman,_Darren_Lynn_(2009).jpg",
+    "nationality": "estadounidense",
+    "roles": "guionista,director de cine,escritor,productor de cine"
+  },
+  {
+    "id": 518,
+    "query_name": "Kevin_Greutert",
+    "name": "Kevin Greutert",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Kevin_Greutert_at_Comic_Con.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,editor de cine"
+  },
+  {
+    "id": 519,
+    "query_name": "Gary_Ross",
+    "name": "Gary Ross",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director,escritor,productor"
+  },
+  {
+    "id": 520,
+    "query_name": "Dominic_Sena",
+    "name": "Dominic Sena",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine"
+  },
+  {
+    "id": 521,
+    "query_name": "E._Elias Merhige",
+    "name": "Edmund Elias Merhige",
+    "nickname": "E. Elias Merhige",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista"
+  },
+  {
+    "id": 522,
+    "query_name": "Christophe_Gans",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Christophe_Gans_2010.JPG",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 523,
+    "query_name": "Morgan_Spurlock",
+    "name": "Morgan  Spurlock",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Morgan_Spurlock_at_the_Tribeca_Film_Festival.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine"
+  },
+  {
+    "id": 524,
+    "query_name": "Paul_McGuigan",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 525,
+    "query_name": "Tamara_Jenkins",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 526,
+    "query_name": "David_Dobkin",
+    "name": "David Dobkin",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "productor,director,guionista"
+  },
+  {
+    "id": 527,
+    "query_name": "Joe_Pytka",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 528,
+    "query_name": "Greg_Mottola",
+    "name": "Greg Mottola",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:GregMottolaJuly09.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,director de televisión"
+  },
+  {
+    "id": 529,
+    "query_name": "Noah_Baumbach",
+    "name": "Noah Baumbach",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Noah_Baumbach_Cannes_2017.jpg",
+    "nationality": "estadounidense",
+    "roles": "guionista,director de cine,productor de cine"
+  },
+  {
+    "id": 530,
+    "query_name": "Peter_Chelsom",
+    "name": "Peter Chelsom",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Peter_Chelsom_on_set_a_crop.jpg",
+    "nationality": "británica",
+    "roles": "director de cine,actor"
+  },
+  {
+    "id": 531,
+    "query_name": "Kelly_Asbury",
+    "name": "Kelly Asbury",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Kelly_Asbury_Photo_Select_(cropped)_(2).jpg",
+    "nationality": "estadounidense",
+    "roles": "guionista,animador,diseñador de personajes,artista de concepto,actor de voz,director de cine,actor"
+  },
+  {
+    "id": 532,
+    "query_name": "Rupert_Wainwright",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 533,
+    "query_name": "Phil_Alden Robinson",
+    "name": "Phil Alden Robinson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "estadounidense",
+    "roles": "director de cine,guionista,productor de cine"
+  },
+  {
+    "id": 534,
+    "query_name": "Chan-wook_Park",
+    "name": "Pak Chan-uk",
+    "nickname": "Chan-Wook ParkBakridamae (Hangul: 박리다매)",
+    "pic": "https://commons.wikimedia.org/wiki/File:ParkChanwookCannesMay09.jpg",
+    "nationality": "surcoreano",
+    "roles": "director de cine,guionista,productor de cine"
+  },
+  {
+    "id": 535,
+    "query_name": "Tom_Hooper",
+    "name": "Tom Hooper",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:TomHopper10TIFF.jpg",
+    "nationality": "británica",
+    "roles": "director,productor,guionista"
+  },
+  {
+    "id": 536,
+    "query_name": "Franco_Zeffirelli",
+    "name": "Franco Zeffirelli",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Zeffirelli_(cropped).jpg",
+    "nationality": "italiano",
+    "roles": "director de teatro,director de cine,guionista,político,productor de cine,actor,libretista,escritor,productor de televisión"
+  },
+  {
+    "id": 537,
+    "query_name": "Neal_Brennan",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 538,
+    "query_name": "Bill_Paxton",
+    "name": "Bill Paxton",
+    "nickname": "Wild Bill",
+    "pic": "https://commons.wikimedia.org/wiki/File:Bill_Paxton_in_July_2016_cropped_lighting_corrected_hue_correction.jpg",
+    "nationality": "estadounidense",
+    "roles": "actor,director"
+  },
+  {
+    "id": 539,
+    "query_name": "David_Slade",
+    "name": "David Slade",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:David_slade_eclipse_premiere.jpg",
+    "nationality": "británica",
+    "roles": "director de cine,televisión"
+  },
+  {
+    "id": 540,
+    "query_name": "Catherine_Owens",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 541,
+    "query_name": "Pete_Docter",
+    "name": "Pete Docter",
+    "nickname": "Peter Docter",
+    "pic": "https://commons.wikimedia.org/wiki/File:Pete_Docter_Cannes_2015.jpg",
+    "nationality": "estadounidense",
+    "roles": "director,animador,guionista,productor"
+  },
+  {
+    "id": 542,
+    "query_name": "Mick_Jackson",
+    "name": "Mick Jackson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Mick_Jackson_(8162046427)_(cropped).jpg",
+    "nationality": "británica",
+    "roles": "director de cine,productor de televisión"
+  },
+  {
+    "id": 543,
+    "query_name": "Richard_E. Grant",
+    "name": "Richard E. Grant",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Richard_E._Grant_2018.jpg",
+    "nationality": "suazí,británica",
+    "roles": "actor,guionista,director,actor de voz"
+  },
+  {
+    "id": 544,
+    "query_name": "Deepa_Mehta",
+    "name": "Deepa Mehta",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Deepa_Mehta.jpg",
+    "nationality": "canadiense,india",
+    "roles": "directora de cine,guionista,productora de cine"
+  },
+  {
+    "id": 545,
+    "query_name": "Adrienne_Shelly",
+    "name": "Adrienne Shelly",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Adrienne_Shelly_as_Dannie.jpg",
+    "nationality": "estadounidense",
+    "roles": "guionista,directora de cine,actriz,actriz de cine,escritora"
+  },
+  {
+    "id": 546,
+    "query_name": "Luke_Wilson",
+    "name": "Luke Wilson",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Luke_Wilson_(2016).jpg",
+    "nationality": "estadounidense",
+    "roles": "actor"
+  },
+  {
+    "id": 547,
+    "query_name": "Drew_Barrymore",
+    "name": "Drew Barrymore",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Lucky17.jpg",
+    "nationality": "estadounidense",
+    "roles": "actriz,productora,directora,modelo,embajadora de naciones unidas,fotógrafa"
+  },
+  {
+    "id": 548,
+    "query_name": "Tom_Vaughan",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 549,
+    "query_name": "Bradley_Rust Grey",
+    "name": "",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org",
+    "nationality": "",
+    "roles": ""
+  },
+  {
+    "id": 550,
+    "query_name": "Ruben_Fleischer",
+    "name": "Ruben Fleischer",
+    "nickname": "",
+    "pic": "https://commons.wikimedia.org/wiki/File:Ruben_Fleischer_by_Gage_Skidmore.jpg",
+    "nationality": "estadounidense",
+    "roles": "director de cine,productor de cine"
+  }
+]

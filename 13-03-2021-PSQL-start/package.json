@@ -1,0 +1,17 @@
+{
+  "name": "13-03-2021-PSQL-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "slonik": "^23.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "db:create": "node scripts/creations.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
